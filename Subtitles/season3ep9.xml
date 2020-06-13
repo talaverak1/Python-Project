@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:backgroundColor="transparent" tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style.default"/>
+<style tts:backgroundColor="transparent" tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="style.default_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region.after.center"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region.before.center"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="189772916t" end="227727499t" region="region.after.center" style="style.default" xml:id="subtitle0">- [sighs]<br/>- [cell phone rings]</p>
+<p begin="228561666t" end="246913332t" region="region.after.center" style="style.default" xml:id="subtitle1">BoJack! Beautiful day, huh?</p>
+<p begin="247747499t" end="269852916t" region="region.after.center" style="style.default" xml:id="subtitle2">Perfect day to go outside,<br/>not read the trades</p>
+<p begin="270687082t" end="300300000t" region="region.after.center" style="style.default" xml:id="subtitle3">or talk to anyone in the industry<br/>or watch entertainment television</p>
+<p begin="301134166t" end="333249582t" region="region.after.center" style="style.default" xml:id="subtitle4">or have a gut feeling about the ratings<br/>for your television show last night.</p>
+<p begin="334083750t" end="363696666t" region="region.after.center" style="style.default" xml:id="subtitle5">- Princess Carolyn, I'm dying.<br/>- You read the trades.</p>
+<p begin="364530832t" end="391224166t" region="region.after.center" style="style.default" xml:id="subtitle6">My heart is in my stomach,<br/>my stomach is in my butt,</p>
+<p begin="392058332t" end="410410000t" region="region.after.center" style="style.default" xml:id="subtitle7">and my butt ran away with the spoon.</p>
+<p begin="411244166t" end="442525416t" region="region.after.center" style="style.default" xml:id="subtitle8">That makes sense<br/>because your butt is quite a dish.</p>
+<p begin="443359582t" end="460877082t" region="region.after.center" style="style.default" xml:id="subtitle9">Can you come over? I need you.</p>
+<p begin="461711249t" end="475474999t" region="region.after.center" style="style.default" xml:id="subtitle10">[sighs]</p>
+<p begin="502168332t" end="513429582t" region="region.after.center" style="style.default" xml:id="subtitle11">What the...?</p>
+<p begin="525942082t" end="567233332t" region="region.after.center" style="style.default" xml:id="subtitle12">I ordered a few feel better pizzas<br/>to feel better. It did not work.</p>
+<p begin="568067500t" end="597680416t" region="region.after.center" style="style.default" xml:id="subtitle13">Then I sprinkled happy pills on them,<br/>and washed it all down</p>
+<p begin="598514582t" end="632298332t" region="region.after.center" style="style.default" xml:id="subtitle14">with a "Please, God, make my pain go away"<br/>vermouth and ice cream float.</p>
+<p begin="633132500t" end="655237916t" region="region.after.center" style="style.default" xml:id="subtitle15">- Somehow I feel worse.<br/>- That's a real mystery.</p>
+<p begin="656072082t" end="689855832t" region="region.after.center" style="style.default" xml:id="subtitle16">My show was terrible.<br/>Why did I insist on a mockumentary format?</p>
+<p begin="690690000t" end="721137082t" region="region.after.center" style="style.default" xml:id="subtitle17">It's already an overused trope now,<br/>in 2007.</p>
+<p begin="728227500t" end="761594166t" region="region.after.center" style="style.default" xml:id="subtitle18">Mockumentary is not a trope,<br/>it's a device for storytelling.</p>
+<p begin="762428332t" end="798714582t" region="region.after.center" style="style.default" xml:id="subtitle19">And your show is daring and cutting edge.<br/>People just aren't ready.</p>
+<p begin="799548750t" end="823322500t" region="region.after.center" style="style.default" xml:id="subtitle20">Yeah, people! It's not me.</p>
+<p begin="824156666t" end="843759582t" region="region.after.center" style="style.default" xml:id="subtitle21">It's the people that are the problem!</p>
+<p begin="844593749t" end="876709166t" region="region.after.center" style="style.default" xml:id="subtitle22">Everyone's dumb and I am great.<br/>Why do I always forget that?</p>
+<p begin="877543332t" end="888387499t" region="region.after.center" style="style.default" xml:id="subtitle23">That's the spirit.</p>
+<p begin="889221666t" end="918834582t" region="region.after.center" style="style.default" xml:id="subtitle24">I'm starting to think this show is<br/>the best thing that happened to me.</p>
+<p begin="919668749t" end="928010416t" region="region.after.center" style="style.default" xml:id="subtitle25">- Really?<br/>- Yeah.</p>
+<p begin="928844582t" end="957206249t" region="region.after.center" style="style.default" xml:id="subtitle26">It made me realize you're the best thing<br/>that happened to me,</p>
+<p begin="958040416t" end="983482499t" region="region.after.center" style="style.default" xml:id="subtitle27">with your sexy cat eyes<br/>and your cute little hair curl.</p>
+<p begin="984316666t" end="1008924582t" region="region.after.center" style="style.default" xml:id="subtitle28">You look like a soft serve<br/>strawberry ice cream.</p>
+<p begin="1023105416t" end="1043959582t" region="region.after.center" style="style.default" xml:id="subtitle29">BoJack, we can't. I'm your agent.</p>
+<p begin="1044793749t" end="1080245832t" region="region.after.center" style="style.default" xml:id="subtitle30">You are so much more than that.<br/>You're my lighthouse, my Garmin.</p>
+<p begin="1081080000t" end="1106522082t" region="region.after.center" style="style.default" xml:id="subtitle31">You're the little plastic table<br/>they put in pizza boxes</p>
+<p begin="1107356250t" end="1128627500t" region="region.after.center" style="style.default" xml:id="subtitle32">to keep the pizza from getting smushed.</p>
+<p begin="1129461666t" end="1143642500t" region="region.after.center" style="style.default" xml:id="subtitle33">You're Princess Carolyn.</p>
+<p begin="1153235416t" end="1172421250t" region="region.after.center" style="style.default" xml:id="subtitle34">[both moan]</p>
+<p begin="1205787916t" end="1227476250t" region="region.after.center" style="style.default" xml:id="subtitle35">Don't you break my heart,<br/>BoJack Horseman.</p>
+<p begin="1228310416t" end="1241240000t" region="region.after.center" style="style.default" xml:id="subtitle36">- What?<br/>- What? Nothing.</p>
+<p begin="1242074166t" end="1276275000t" region="region.after.center" style="style.default" xml:id="subtitle37">- Did you just say something to me?<br/>- No, I was just being wistful, I guess.</p>
+<p begin="1277109166t" end="1305470832t" region="region.after.center" style="style.default" xml:id="subtitle38">Well, can you be wistful a little quieter?</p>
+<p begin="1306305000t" end="1339254582t" region="region.after.center" style="style.default" xml:id="subtitle39">- Not everyone is interested in your wist.<br/>- Okay, BoJack.</p>
+<p begin="1362194166t" end="1383465416t" region="region.after.center" style="style.default" xml:id="subtitle40">- You smell nice.<br/>- Thanks, BoJack.</p>
+<p begin="2020768749t" end="2037452082t" region="region.before.center" style="style.default" xml:id="subtitle41">[Carolyn laughs]</p>
+<p begin="2038286249t" end="2068316249t" region="region.before.center" style="style.default" xml:id="subtitle42">Okay, gotta go. I'm about to meet<br/>my most important client.</p>
+<p begin="2069150416t" end="2097512082t" region="region.before.center" style="style.default" xml:id="subtitle43">- I know you're not really on the phone.<br/>- Bye, Mr. President.</p>
+<p begin="2098346249t" end="2130878749t" region="region.before.center" style="style.default" xml:id="subtitle44">Give my love to your basketball friends.<br/>You too.</p>
+<p begin="2131712916t" end="2155903750t" region="region.before.center" style="style.default" xml:id="subtitle45">Should we get dinner,<br/>or are you just thinking drinks?</p>
+<p begin="2156737916t" end="2179677500t" region="region.before.center" style="style.default" xml:id="subtitle46">- I'm not planning on staying long.<br/>- Okay.</p>
+<p begin="2180511666t" end="2217632082t" region="region.before.center" style="style.default" xml:id="subtitle47">I'm glad you wanted to meet,<br/>because I am so pumped to tell you</p>
+<p begin="2218466250t" end="2244742500t" region="region.before.center" style="style.default" xml:id="subtitle48">all about the exciting projects<br/>I'm lining up for you.</p>
+<p begin="2245576666t" end="2255169582t" region="region.before.center" style="style.default" xml:id="subtitle49">That won't be necessary.</p>
+<p begin="2256003750t" end="2285616666t" region="region.before.center" style="style.default" xml:id="subtitle50">Once you get your Oscar nom,<br/>we'll have our pick. That's the key.</p>
+<p begin="2286450832t" end="2310641666t" region="region.before.center" style="style.default" xml:id="subtitle51">You think Halle Berry<br/>would've been offered <span style="style.default_1">Catwoman</span></p>
+<p begin="2311475832t" end="2323571250t" region="region.before.center" style="style.default" xml:id="subtitle52">if she wasn't an Oscar winner?</p>
+<p begin="2324405416t" end="2346093750t" region="region.before.center" style="style.default" xml:id="subtitle53">We just gotta find you your <span style="style.default_1">Catwoman.</span></p>
+<p begin="2346927916t" end="2362777082t" region="region.before.center" style="style.default" xml:id="subtitle54">I'm not sure if a <span style="style.default_1">Catwoman</span></p>
+<p begin="2363611250t" end="2390304582t" region="region.before.center" style="style.default" xml:id="subtitle55">is really the best thing<br/>for my career right now.</p>
+<p begin="2391138750t" end="2417832082t" region="region.before.center" style="style.default" xml:id="subtitle56">Right, well, like I said,<br/>we are getting lots of offers.</p>
+<p begin="2418666250t" end="2429510416t" region="region.before.center" style="style.default" xml:id="subtitle57">Listen, Princess Carolyn--</p>
+<p begin="2430344582t" end="2461625832t" region="region.before.center" style="style.default" xml:id="subtitle58"><span style="style.default_1">Signore </span>Horseman!<br/><span style="style.default_1">Principessa </span>Carolina!</p>
+<p begin="2462460000t" end="2482062916t" region="region.before.center" style="style.default" xml:id="subtitle59">Sandro, how you doing,<br/>you handsome devil?</p>
+<p begin="2482897082t" end="2517097916t" region="region.after.center" style="style.default" xml:id="subtitle60">To be honest I am, how you say,<br/>sweating bull's nets.</p>
+<p begin="2517932082t" end="2537535000t" region="region.after.center" style="style.default" xml:id="subtitle61">- You mean sweating bullets?<br/>- I don't think so.</p>
+<p begin="2538369166t" end="2565062500t" region="region.after.center" style="style.default" xml:id="subtitle62">Sweating bullets.<br/>How does that make the sense?</p>
+<p begin="2565896666t" end="2582580000t" region="region.after.center" style="style.default" xml:id="subtitle63">How does sweating bull's nets<br/>make sense?</p>
+<p begin="2583414166t" end="2621368750t" region="region.before.center" style="style.default" xml:id="subtitle64">I don't want to be caught in bull's nets.<br/>He may try to kiss me.</p>
+<p begin="2622202916t" end="2676423750t" region="region.before.center" style="style.default" xml:id="subtitle65">I prefer kissing cows. No judgment,<br/>just a preference. I love kissing cows!</p>
+<p begin="2677257916t" end="2695192500t" region="region.before.center" style="style.default" xml:id="subtitle66">Don't tell my wife. I'm kidding!</p>
+<p begin="2696026666t" end="2713961250t" region="region.after.center" style="style.default" xml:id="subtitle67">She knows. She's a cow!</p>
+<p begin="2714795416t" end="2750664582t" region="region.after.center" style="style.default" xml:id="subtitle68">And I only kiss her.<br/>[laughs]</p>
+<p begin="2751498750t" end="2764011250t" region="region.after.center" style="style.default" xml:id="subtitle69">Okay, very good.</p>
+<p begin="2764845416t" end="2784448332t" region="region.after.center" style="style.default" xml:id="subtitle70">Haven't you lived in America for 30 years?</p>
+<p begin="2785282500t" end="2816980832t" region="region.after.center" style="style.default" xml:id="subtitle71">Ignore him. Why are you<br/>sweating bullets and/or nets?</p>
+<p begin="2817815000t" end="2869533332t" region="region.after.center" style="style.default" xml:id="subtitle72">Because there is a restaurant critic<br/>here tonight.</p>
+<p begin="2870367500t" end="2907905000t" region="region.after.center" style="style.default" xml:id="subtitle73">Very interesting.</p>
+<p begin="2908739166t" end="2935015416t" region="region.after.center" style="style.default" xml:id="subtitle74">Critics are the worst.<br/>That's my review of critics.</p>
+<p begin="2935849582t" end="2955869582t" region="region.after.center" style="style.default" xml:id="subtitle75">Two thumbs down! Four percent fresh!</p>
+<p begin="2956703750t" end="2982145832t" region="region.after.center" style="style.default" xml:id="subtitle76">One star! You all eat a flat butt!</p>
+<p begin="2982980000t" end="3012592916t" region="region.after.center" style="style.default" xml:id="subtitle77">Did you not know there was a critic here?<br/>You own this place.</p>
+<p begin="3013427082t" end="3035949582t" region="region.after.center" style="style.default" xml:id="subtitle78">I never see you do anything<br/>to help run it.</p>
+<p begin="3036783750t" end="3053467082t" region="region.after.center" style="style.default" xml:id="subtitle79">This place runs itself. Right, Sandro?</p>
+<p begin="3054301250t" end="3092672916t" region="region.after.center" style="style.default" xml:id="subtitle80">My wife and children and therapy man<br/>may not agree so much,</p>
+<p begin="3093507082t" end="3110607500t" region="region.after.center" style="style.default" xml:id="subtitle81">but if you say so, <span style="style.default_1">Signore </span>Horseman.</p>
+<p begin="3111441666t" end="3136049582t" region="region.after.center" style="style.default" xml:id="subtitle82">Even his wife and kids<br/>and therapy man agree.</p>
+<p begin="3136883750t" end="3181511666t" region="region.after.center" style="style.default" xml:id="subtitle83">Well, as the Black Guy Pete say,<br/>"Tonight's gonna be a good night."</p>
+<p begin="3182345832t" end="3198195000t" region="region.after.center" style="style.default" xml:id="subtitle84">Please. Enjoy.</p>
+<p begin="3199029166t" end="3229059166t" region="region.after.center" style="style.default" xml:id="subtitle85">I know you're not happy about<br/>what happened with the Kelsey project.</p>
+<p begin="3229893332t" end="3262842916t" region="region.after.center" style="style.default" xml:id="subtitle86">I pushed a little too hard to get you<br/>the money you deserve.</p>
+<p begin="3263677082t" end="3301631666t" region="region.after.center" style="style.default" xml:id="subtitle87">What can I say? Sometimes I'm too good<br/>of an agent, so deals fall apart.</p>
+<p begin="3302465832t" end="3325405416t" region="region.after.center" style="style.default" xml:id="subtitle88">That's a thing that happens<br/>when agents are really good.</p>
+<p begin="3326239582t" end="3339169166t" region="region.after.center" style="style.default" xml:id="subtitle89">- That's not--<br/>- Moving forward!</p>
+<p begin="3340003332t" end="3365028332t" region="region.after.center" style="style.default" xml:id="subtitle90">I know you're not happy<br/>with how I handled <span style="style.default_1">Ethan Around.</span></p>
+<p begin="3365862499t" end="3380877499t" region="region.after.center" style="style.default" xml:id="subtitle91">- Or didn't handle it.<br/>- Bygones!</p>
+<p begin="3381711666t" end="3410073332t" region="region.after.center" style="style.default" xml:id="subtitle92">It was because I was busy<br/>getting you the <span style="style.default_1">Pegasus </span>movie,</p>
+<p begin="3410907499t" end="3434264166t" region="region.after.center" style="style.default" xml:id="subtitle93">which I know you did not get,<br/>but trust me,</p>
+<p begin="3435098332t" end="3471384582t" region="region.after.center" style="style.default" xml:id="subtitle94">you'll see not getting these movies was<br/>the best thing that ever happened to you.</p>
+<p begin="3472218749t" end="3502248749t" region="region.after.center" style="style.default" xml:id="subtitle95">Onwards and upwards!<br/>Tally ho! To the stars!</p>
+<p begin="3503082916t" end="3524771249t" region="region.after.center" style="style.default" xml:id="subtitle96">Okay, you're forcing me to use the cards.</p>
+<p begin="3547710832t" end="3593589999t" region="region.after.center" style="style.default" xml:id="subtitle97">"Princess Carolyn, clear throat,<br/>I have been very disappointed--"</p>
+<p begin="3594424166t" end="3610273332t" region="region.after.center" style="style.default" xml:id="subtitle98">Ring! Hello, Your Highness.</p>
+<p begin="3611107499t" end="3637800832t" region="region.after.center" style="style.default" xml:id="subtitle99">It's a king, I have to take this.<br/>In the bathroom.</p>
+<p begin="3646559582t" end="3674921249t" region="region.after.center" style="style.default" xml:id="subtitle100">Oh, fish, oh, fish!</p>
+<p begin="3675755416t" end="3695358332t" region="region.after.center" style="style.default" xml:id="subtitle101">[woman] Who's out there?<br/>Are you talking to me?</p>
+<p begin="3696192499t" end="3712041666t" region="region.after.center" style="style.default" xml:id="subtitle102">No.<br/>[sighs]</p>
+<p begin="3712875832t" end="3731227499t" region="region.after.center" style="style.default" xml:id="subtitle103">All right, Pink Lady, think.</p>
+<p begin="3732061666t" end="3755418332t" region="region.after.center" style="style.default" xml:id="subtitle104">- [woman] Are you talking to me?<br/>- Are you a pink lady?</p>
+<p begin="3756252499t" end="3785031249t" region="region.after.center" style="style.default" xml:id="subtitle105">[woman] I was a Pink Lady in my high<br/>school's production of <span style="style.default_1">Grease.</span></p>
+<p begin="3785865416t" end="3812975832t" region="region.after.center" style="style.default" xml:id="subtitle106">- Were you Rizzo?<br/>- [woman] No, Jan.</p>
+<p begin="3813809999t" end="3830076249t" region="region.after.center" style="style.default" xml:id="subtitle107">Then don't waste my time.</p>
+<p begin="3883462916t" end="3908487916t" region="region.after.center" style="style.default" xml:id="subtitle108">Now, let us bow our heads and bray.</p>
+<p begin="3909322082t" end="3927673749t" region="region.after.center" style="style.default" xml:id="subtitle109">[all bray]</p>
+<p begin="3989819166t" end="4004417082t" region="region.after.center" style="style.default" xml:id="subtitle110">[grunts]</p>
+<p begin="4014427082t" end="4027356666t" region="region.after.center" style="style.default" xml:id="subtitle111">[whispers]</p>
+<p begin="4028190832t" end="4040703332t" region="region.after.center" style="style.default" xml:id="subtitle112">Yes, right away!</p>
+<p begin="4053215832t" end="4103682916t" region="region.after.center" style="style.default" xml:id="subtitle113">So back to what you were--</p>
+<p begin="4104517082t" end="4127873749t" region="region.after.center" style="style.default" xml:id="subtitle114">- Oh, my goodness, what is this?<br/>- Yeah, what is this?</p>
+<p begin="4128707916t" end="4165411249t" region="region.after.center" style="style.default" xml:id="subtitle115"><span style="style.default_1">Happy 23 years working together</span></p>
+<p begin="4166245416t" end="4184179999t" region="region.after.center" style="style.default" xml:id="subtitle116"><span style="style.default_1">- Join me</span><br/>- Oh, my God.</p>
+<p begin="4185014166t" end="4206285416t" region="region.after.center" style="style.default" xml:id="subtitle117"><span style="style.default_1">- Twenty-two-three, 23 years</span><br/><span style="style.default_1">- Twenty-three years</span></p>
+<p begin="4207119582t" end="4216712499t" region="region.after.center" style="style.default" xml:id="subtitle118">You're making this up.</p>
+<p begin="4217546666t" end="4252998749t" region="region.after.center" style="style.default" xml:id="subtitle119"><span style="style.default_1">Happy 23 years working together</span><br/><span style="style.default_1">Can you believe this?</span></p>
+<p begin="4253832916t" end="4281777499t" region="region.after.center" style="style.default" xml:id="subtitle120"><span style="style.default_1">- Two plus three equals 23</span><br/>- This is just stream of consciousness.</p>
+<p begin="4282611666t" end="4298877916t" region="region.after.center" style="style.default" xml:id="subtitle121"><span style="style.default_1">Twenty-three years working together!</span></p>
+<p begin="4299712082t" end="4320983332t" region="region.after.center" style="style.default" xml:id="subtitle122"><span style="style.default_1">Twenty-three years</span></p>
+<p begin="4336415416t" end="4350179166t" region="region.after.center" style="style.default" xml:id="subtitle123">Okay, cool.</p>
+<p begin="4351013332t" end="4395224166t" region="region.after.center" style="style.default" xml:id="subtitle124">Can you believe it, BoJack?<br/>It's been almost a quarter of a century.</p>
+<p begin="4396058332t" end="4418163750t" region="region.after.center" style="style.default" xml:id="subtitle125">Talking on the phone<br/>pretty much every day,</p>
+<p begin="4418997916t" end="4439852082t" region="region.after.center" style="style.default" xml:id="subtitle126">sharing our deepest dreams and secrets,</p>
+<p begin="4440686250t" end="4469882082t" region="region.after.center" style="style.default" xml:id="subtitle127">being there for each other<br/>through all of it, bosom friends,</p>
+<p begin="4470716250t" end="4485314166t" region="region.after.center" style="style.default" xml:id="subtitle128"><span style="style.default_1">Anne of Green Gables</span> style.</p>
+<p begin="4486148332t" end="4514092916t" region="region.after.center" style="style.default" xml:id="subtitle129">Let's toast to another 23 years.<br/>What do you say?</p>
+<p begin="4514927082t" end="4539117916t" region="region.after.center" style="style.default" xml:id="subtitle130">- You're fired.<br/>- Uh-- Oh.</p>
+<p begin="4539952082t" end="4567896666t" region="region.after.center" style="style.default" xml:id="subtitle131">I can't believe this. You're firing me?</p>
+<p begin="4568730832t" end="4579575000t" region="region.after.center" style="style.default" xml:id="subtitle132">- Me?<br/>- What? No.</p>
+<p begin="4580409166t" end="4609605000t" region="region.after.center" style="style.default" xml:id="subtitle133">You have no idea,<br/>everything I do around here!</p>
+<p begin="4610439166t" end="4633378750t" region="region.after.center" style="style.default" xml:id="subtitle134">- Half the kitchen staff is my family.<br/>- No.</p>
+<p begin="4634212916t" end="4652147500t" region="region.after.center" style="style.default" xml:id="subtitle135">- Honestly, just--<br/>- I detest you!</p>
+<p begin="4652981666t" end="4675504166t" region="region.after.center" style="style.default" xml:id="subtitle136">I hope you rot in the hell!</p>
+<p begin="4676338332t" end="4710122082t" region="region.after.center" style="style.default" xml:id="subtitle137">- We're headed down a road that--<br/>- You washed-up has-been no-good joke!</p>
+<p begin="4710956250t" end="4732644582t" region="region.after.center" style="style.default" xml:id="subtitle138">You are the opposite of an onion,</p>
+<p begin="4733478750t" end="4770182082t" region="region.after.center" style="style.default" xml:id="subtitle139">because if I cut you, I am no gonna cry.</p>
+<p begin="4771016250t" end="4784362916t" region="region.after.center" style="style.default" xml:id="subtitle140">Well, now you are fired.</p>
+<p begin="4785197082t" end="4826488332t" region="region.after.center" style="style.default" xml:id="subtitle141">Good luck finding another charming<br/>first-generation Italian immigrant</p>
+<p begin="4827322500t" end="4876121250t" region="region.after.center" style="style.default" xml:id="subtitle142">with this kind of darling accent,<br/>who makes equally delightful malapropisms!</p>
+<p begin="4876955416t" end="4904900000t" region="region.after.center" style="style.default" xml:id="subtitle143">You, sir, have just cut off your nose</p>
+<p begin="4905734166t" end="4932844582t" region="region.after.center" style="style.default" xml:id="subtitle144">and thrown Sprite in your face!</p>
+<p begin="4933678750t" end="4980392082t" region="region.after.center" style="style.default" xml:id="subtitle145">I am a classic stereotype<br/>that is tough to come by nowadays,</p>
+<p begin="4981226250t" end="5015010000t" region="region.after.center" style="style.default" xml:id="subtitle146">because Italians don't emigrate<br/>so much to America no more.</p>
+<p begin="5015844166t" end="5037949582t" region="region.after.center" style="style.default" xml:id="subtitle147">Botticelli, Barbarelli, Beetle Bailey!</p>
+<p begin="5038783750t" end="5067562500t" region="region.after.center" style="style.default" xml:id="subtitle148">Modigliani, Masaccio, Marmaduke!</p>
+<p begin="5068396666t" end="5086748332t" region="region.after.center" style="style.default" xml:id="subtitle149"><span style="style.default_1">Avanti,</span> all of you! <span style="style.default_1">Andiamo!</span></p>
+<p begin="5087582500t" end="5105934166t" region="region.after.center" style="style.default" xml:id="subtitle150">[laughs nervously]</p>
+<p begin="5106768332t" end="5125120000t" region="region.after.center" style="style.default" xml:id="subtitle151">So that was weird, huh?</p>
+<p begin="5140969166t" end="5159320832t" region="region.after.center" style="style.default" xml:id="subtitle152">Please stop looking at me.</p>
+<p begin="5160155000t" end="5181843332t" region="region.after.center" style="style.default" xml:id="subtitle153">Too bad about Sandro, huh?</p>
+<p begin="5182677500t" end="5210205000t" region="region.after.center" style="style.default" xml:id="subtitle154">You're the one who's fired, obviously.</p>
+<p begin="5228973750t" end="5237732500t" region="region.after.center" style="style.default" xml:id="subtitle155">Right.</p>
+<p begin="5238566666t" end="5276104166t" region="region.after.center" style="style.default" xml:id="subtitle156">Ryan Murphy is doing a re-imagining<br/>of <span style="style.default_1">The Life and Times of Harriet Tubman.</span></p>
+<p begin="5276938332t" end="5303631666t" region="region.after.center" style="style.default" xml:id="subtitle157">But in this version, she's a tub-man,</p>
+<p begin="5304465832t" end="5330742082t" region="region.after.center" style="style.default" xml:id="subtitle158">with the comparative strength<br/>and agility of a tub!</p>
+<p begin="5331576250t" end="5347008332t" region="region.after.center" style="style.default" xml:id="subtitle159">- PC.<br/>- He's looking for someone</p>
+<p begin="5347842500t" end="5371199166t" region="region.after.center" style="style.default" xml:id="subtitle160">to play the Underground<br/>Railroad conductor.</p>
+<p begin="5372033332t" end="5391219166t" region="region.after.center" style="style.default" xml:id="subtitle161">Great, but you don't represent me anymore.</p>
+<p begin="5392053332t" end="5414158750t" region="region.after.center" style="style.default" xml:id="subtitle162">Okay, I get it. I'm fired.</p>
+<p begin="5414992916t" end="5440017916t" region="region.after.center" style="style.default" xml:id="subtitle163">You're gonna spend a couple of days<br/>being mad at me,</p>
+<p begin="5440852082t" end="5479223750t" region="region.after.center" style="style.default" xml:id="subtitle164">then I'll get you another gig, and you'll<br/>be my client again, just like every time.</p>
+<p begin="5480057916t" end="5505082916t" region="region.after.center" style="style.default" xml:id="subtitle165">Can we get past the part<br/>where you're mad at me</p>
+<p begin="5505917082t" end="5532610416t" region="region.after.center" style="style.default" xml:id="subtitle166">and get to the part where<br/>you're stealing General Lee's plutonium</p>
+<p begin="5533444582t" end="5560555000t" region="region.after.center" style="style.default" xml:id="subtitle167">to fuel your subterranean<br/>steam-punk slave-tram?</p>
+<p begin="5568479582t" end="5588082500t" region="region.after.center" style="style.default" xml:id="subtitle168">"It's best, for both of us,</p>
+<p begin="5588916666t" end="5621032082t" region="region.after.center" style="style.default" xml:id="subtitle169">if we end this relationship<br/>once and for all."</p>
+<p begin="5621866250t" end="5649393750t" region="region.after.center" style="style.default" xml:id="subtitle170">I'm sorry I screwed up,<br/>you don't have to read off the--</p>
+<p begin="5650227916t" end="5684011666t" region="region.after.center" style="style.default" xml:id="subtitle171">"You take me for granted, made decisions<br/>that were against my wishes,</p>
+<p begin="5684845832t" end="5720715000t" region="region.after.center" style="style.default" xml:id="subtitle172">and worst of all<br/>she's got my globes a-warming!"</p>
+<p begin="5721549166t" end="5744905832t" region="region.after.center" style="style.default" xml:id="subtitle173">- How did that get in there?<br/>- What is that?</p>
+<p begin="5745740000t" end="5768262500t" region="region.after.center" style="style.default" xml:id="subtitle174">A punch line to a joke<br/>from the roast of January Jones.</p>
+<p begin="5769096666t" end="5796207082t" region="region.after.center" style="style.default" xml:id="subtitle175">- A global warming joke?<br/>- It's an important issue. Here we go.</p>
+<p begin="5797041250t" end="5814975832t" region="region.after.center" style="style.default" xml:id="subtitle176">"Our relationship no longer has any--"</p>
+<p begin="5815810000t" end="5839166666t" region="region.after.center" style="style.default" xml:id="subtitle177">"January has only gotten hotter and hot--"<br/>Nope.</p>
+<p begin="5840000832t" end="5872116250t" region="region.after.center" style="style.default" xml:id="subtitle178">- Were you at the roast of January Jones?<br/>- No, but I wrote some jokes</p>
+<p begin="5872950416t" end="5891719166t" region="region.after.center" style="style.default" xml:id="subtitle179">in case someone got sick<br/>and they needed a backup.</p>
+<p begin="5892553332t" end="5922166250t" region="region.after.center" style="style.default" xml:id="subtitle180">Do you even know January Jones?<br/>Why would they call you?</p>
+<p begin="5923000416t" end="5967628332t" region="region.after.center" style="style.default" xml:id="subtitle181">I guess I thought that my agent could<br/>get me in the mix if Jason Sudeikis--</p>
+<p begin="5968462500t" end="5987231250t" region="region.after.center" style="style.default" xml:id="subtitle182">How did these get out of order?</p>
+<p begin="5988065416t" end="6008919582t" region="region.after.center" style="style.default" xml:id="subtitle183">So in the joke,<br/>are the globes your balls?</p>
+<p begin="6009753750t" end="6031442082t" region="region.after.center" style="style.default" xml:id="subtitle184">And they get warm<br/>when you see January Jones?</p>
+<p begin="6032276250t" end="6044788750t" region="region.after.center" style="style.default" xml:id="subtitle185">Is that how balls work?</p>
+<p begin="6045622916t" end="6063974582t" region="region.after.center" style="style.default" xml:id="subtitle186">I don't know. It's a work in progress.</p>
+<p begin="6064808750t" end="6078572500t" region="region.after.center" style="style.default" xml:id="subtitle187">Professional integrity!</p>
+<p begin="6079406666t" end="6106100000t" region="region.after.center" style="style.default" xml:id="subtitle188">"Our relationship no longer<br/>has any professional integrity.</p>
+<p begin="6106934166t" end="6126954166t" region="region.after.center" style="style.default" xml:id="subtitle189">So it's gotta end. Stand to leave."</p>
+<p begin="6127788332t" end="6141969166t" region="region.after.center" style="style.default" xml:id="subtitle190">Shouldn't have read that part.</p>
+<p begin="6142803332t" end="6171165000t" region="region.after.center" style="style.default" xml:id="subtitle191">"When you reflect on this,<br/>you'll see it's best for us.</p>
+<p begin="6171999166t" end="6192436250t" region="region.after.center" style="style.default" xml:id="subtitle192">Exit restaurant." Goddamn it.</p>
+<p begin="6193270416t" end="6220797916t" region="region.after.center" style="style.default" xml:id="subtitle193">Wow, that was--<br/>I don't know what that was.</p>
+<p begin="6221632082t" end="6236647082t" region="region.after.center" style="style.default" xml:id="subtitle194">Hey! Where are you going?</p>
+<p begin="6257918332t" end="6292953332t" region="region.after.center" style="style.default" xml:id="subtitle195">- Who gave you this idea? Spanakopita?<br/>- This has nothing to do with Ana.</p>
+<p begin="6293787500t" end="6308802500t" region="region.after.center" style="style.default" xml:id="subtitle196">Here you go, sir.</p>
+<p begin="6316310000t" end="6332993332t" region="region.after.center" style="style.default" xml:id="subtitle197">- I'll get it!<br/>- You two are b'thumping.</p>
+<p begin="6333827500t" end="6348842500t" region="region.after.center" style="style.default" xml:id="subtitle198">Now you do whatever she says?</p>
+<p begin="6349676666t" end="6362189166t" region="region.after.center" style="style.default" xml:id="subtitle199">- Is that what's happening?<br/>- No.</p>
+<p begin="6363023332t" end="6391802082t" region="region.after.center" style="style.default" xml:id="subtitle200">No, you're not b'thumping or no,<br/>you're not doing whatever she says?</p>
+<p begin="6392636250t" end="6419329582t" region="region.after.center" style="style.default" xml:id="subtitle201">- I'm not doing whatever she says.<br/>- So you <span style="style.default_1">are </span>b'thumping.</p>
+<p begin="6420163750t" end="6463123332t" region="region.after.center" style="style.default" xml:id="subtitle202">I understand from context what you mean,<br/>but there's no way b'thumping is a thing.</p>
+<p begin="6463957500t" end="6472299166t" region="region.after.center" style="style.default" xml:id="subtitle203">I'll get it!</p>
+<p begin="6473133332t" end="6503163332t" region="region.after.center" style="style.default" xml:id="subtitle204">You don't have to do everything<br/>your little falafel pocket tells you to.</p>
+<p begin="6503997500t" end="6541535000t" region="region.after.center" style="style.default" xml:id="subtitle205">- You screwed up!<br/>- Once! In 23 years!</p>
+<p begin="6542369166t" end="6550710832t" region="region.after.center" style="style.default" xml:id="subtitle206">I'll get 'em.</p>
+<p begin="6551545000t" end="6582826250t" region="region.after.center" style="style.default" xml:id="subtitle207">All these years I carried you,<br/>when no one wanted to work with you.</p>
+<p begin="6583660416t" end="6602846250t" region="region.after.center" style="style.default" xml:id="subtitle208">I still managed to get you jobs.</p>
+<p begin="6603680416t" end="6623700416t" region="region.after.center" style="style.default" xml:id="subtitle209">And then you would flake,<br/>or sabotage them,</p>
+<p begin="6624534582t" end="6662489166t" region="region.after.center" style="style.default" xml:id="subtitle210">or get wrapped up in some crisis<br/>or emergency or vague sadness.</p>
+<p begin="6663323332t" end="6696272916t" region="region.after.center" style="style.default" xml:id="subtitle211">Everyone told me to dump you--<br/>my bosses, film execs, directors,</p>
+<p begin="6697107082t" end="6725051666t" region="region.after.center" style="style.default" xml:id="subtitle212">they all told me you were washed up,<br/>a nobody, a has-been,</p>
+<p begin="6725885832t" end="6758835416t" region="region.after.center" style="style.default" xml:id="subtitle213">- a joke, too portly for TV.<br/>- Too portly for TV? Who said that?</p>
+<p begin="6759669582t" end="6777187082t" region="region.after.center" style="style.default" xml:id="subtitle214">- It doesn't matter.<br/>- It does. Who said it?</p>
+<p begin="6778021249t" end="6820980832t" region="region.after.center" style="style.default" xml:id="subtitle215">- Luis Guzman.<br/>- Luis Guzman said I'm too portly for TV?</p>
+<p begin="6821814999t" end="6845171666t" region="region.after.center" style="style.default" xml:id="subtitle216">You're right, BoJack.<br/>This is for the best.</p>
+<p begin="6846005832t" end="6878538332t" region="region.after.center" style="style.default" xml:id="subtitle217">I no longer have to lug your talentless,<br/>self-centered, self-sabotaging,</p>
+<p begin="6879372499t" end="6900226666t" region="region.after.center" style="style.default" xml:id="subtitle218">dead-weight carcass<br/>of faded talent around my neck.</p>
+<p begin="6901060832t" end="6917327082t" region="region.after.center" style="style.default" xml:id="subtitle219">- Hey.<br/>- Thank you for firing me.</p>
+<p begin="6918161249t" end="6943186249t" region="region.after.center" style="style.default" xml:id="subtitle220">I'm gonna go pour myself<br/>a little celebratory potato juice,</p>
+<p begin="6944020416t" end="6972382082t" region="region.after.center" style="style.default" xml:id="subtitle221">because this is the best goddamn<br/>thing that's ever happened to me.</p>
+<p begin="6973216249t" end="6999075416t" region="region.after.center" style="style.default" xml:id="subtitle222">Hey! Hey! Hey!</p>
+<p begin="7017009999t" end="7035778749t" region="region.after.center" style="style.default" xml:id="subtitle223">[groans]</p>
+<p begin="7036612916t" end="7047457082t" region="region.after.center" style="style.default" xml:id="subtitle224">Ha ha! I'll get it.</p>
+<p begin="7048291249t" end="7073733332t" region="region.after.center" style="style.default" xml:id="subtitle225">You do not talk to me like that<br/>and walk away.</p>
+<p begin="7074567499t" end="7090416666t" region="region.after.center" style="style.default" xml:id="subtitle226">Oh, no? What's happening?</p>
+<p begin="7091250832t" end="7126702916t" region="region.after.center" style="style.default" xml:id="subtitle227">This is so weird. I'm walking away,<br/>even though you told me not to.</p>
+<p begin="7127537082t" end="7145888749t" region="region.after.center" style="style.default" xml:id="subtitle228">Right, I don't work for you anymore.</p>
+<p begin="7146722916t" end="7168411249t" region="region.after.center" style="style.default" xml:id="subtitle229">- Hey!<br/>- Excuse me, Mr. Horseman?</p>
+<p begin="7169245416t" end="7197607082t" region="region.after.center" style="style.default" xml:id="subtitle230">- Not now.<br/>- We have a slight problem in the kitchen.</p>
+<p begin="7198441249t" end="7221797916t" region="region.after.center" style="style.default" xml:id="subtitle231">- Where is everybody?<br/>- That's the problem. They all quit.</p>
+<p begin="7222632082t" end="7245988749t" region="region.after.center" style="style.default" xml:id="subtitle232">The kitchen's backed up with orders.<br/>No one's getting food.</p>
+<p begin="7246822916t" end="7263089166t" region="region.after.center" style="style.default" xml:id="subtitle233">And the critic is growing very impatient.</p>
+<p begin="7275601666t" end="7299792499t" region="region.after.center" style="style.default" xml:id="subtitle234">Writing that down...</p>
+<p begin="7300626666t" end="7324400416t" region="region.after.center" style="style.default" xml:id="subtitle235">- Just do what you normally do.<br/>- But there's no chef.</p>
+<p begin="7325234582t" end="7354013332t" region="region.after.center" style="style.default" xml:id="subtitle236">Tonight's your lucky night.<br/>You just got promoted.</p>
+<p begin="7354847499t" end="7387797082t" region="region.after.center" style="style.default" xml:id="subtitle237">But I don't want to be a chef.<br/><span style="style.default_1">I want to sing</span></p>
+<p begin="7388631249t" end="7421580832t" region="region.after.center" style="style.default" xml:id="subtitle238">Kidding. I'm actually just happy<br/>being a waiter. I'm not my job.</p>
+<p begin="7422414999t" end="7457867082t" region="region.after.center" style="style.default" xml:id="subtitle239">- A lot of people think that--<br/>- You're the chef! Start cheffing!</p>
+<p begin="7458701249t" end="7467042916t" region="region.after.center" style="style.default" xml:id="subtitle240">Oh.</p>
+<p begin="7517927082t" end="7555047499t" region="region.after.center" style="style.default" xml:id="subtitle241">What? Fifty teeth?<br/>Get out of here. Let me see.</p>
+<p begin="7563389166t" end="7575901666t" region="region.after.center" style="style.default" xml:id="subtitle242">Would you look at that.</p>
+<p begin="7576735832t" end="7595921666t" region="region.after.center" style="style.default" xml:id="subtitle243">You're thrilled<br/>to have me out of your life?</p>
+<p begin="7596755832t" end="7630956666t" region="region.after.center" style="style.default" xml:id="subtitle244">- I was such a burden all those years.<br/>- Can I close my mouth now?</p>
+<p begin="7631790832t" end="7650142499t" region="region.after.center" style="style.default" xml:id="subtitle245">- Know what I think?<br/>- Don't wanna hear it.</p>
+<p begin="7650976666t" end="7666408749t" region="region.after.center" style="style.default" xml:id="subtitle246">You like being there to rescue me.</p>
+<p begin="7667242916t" end="7694353332t" region="region.after.center" style="style.default" xml:id="subtitle247">- I close my mouth, okay?<br/>- Nobody cares!</p>
+<p begin="7695187499t" end="7712287916t" region="region.after.center" style="style.default" xml:id="subtitle248">- Okay--<br/>- Nope, I'm still counting.</p>
+<p begin="7713122082t" end="7731473749t" region="region.after.center" style="style.default" xml:id="subtitle249">You like it when I'm a mess.</p>
+<p begin="7732307916t" end="7751076666t" region="region.after.center" style="style.default" xml:id="subtitle250">Because it makes you feel good<br/>about yourself.</p>
+<p begin="7751910832t" end="7770679582t" region="region.after.center" style="style.default" xml:id="subtitle251">Guess what? I never asked for that.</p>
+<p begin="7771513749t" end="7786945832t" region="region.after.center" style="style.default" xml:id="subtitle252">You ask all the time.</p>
+<p begin="7787779999t" end="7811970832t" region="region.after.center" style="style.default" xml:id="subtitle253">You have never not been asking me<br/>to rescue you.</p>
+<p begin="7812804999t" end="7830739582t" region="region.after.center" style="style.default" xml:id="subtitle254">"Princess Carolyn, help me!</p>
+<p begin="7831573749t" end="7864523332t" region="region.after.center" style="style.default" xml:id="subtitle255">I slept with the gaffer's wife<br/>and now he's not lighting me properly.</p>
+<p begin="7865357499t" end="7900392499t" region="region.after.center" style="style.default" xml:id="subtitle256">Princess Carolyn, I threw up<br/>on Elle Fanning in a bounce house.</p>
+<p begin="7901226666t" end="7929588332t" region="region.after.center" style="style.default" xml:id="subtitle257">Princess Carolyn,<br/>why am I such a big stupid asshole?"</p>
+<p begin="7930422499t" end="7954196249t" region="region.after.center" style="style.default" xml:id="subtitle258">Okay, great, more abuse.<br/>Right on schedule.</p>
+<p begin="7955030416t" end="7965457499t" region="region.after.center" style="style.default" xml:id="subtitle259">Oh, that's abuse?</p>
+<p begin="7966291666t" end="7985894582t" region="region.after.center" style="style.default" xml:id="subtitle260">"BoJack, you're such<br/>a big, stupid asshole.</p>
+<p begin="7986728749t" end="8012587916t" region="region.after.center" style="style.default" xml:id="subtitle261">BoJack, why were you even<br/>in the bounce house, dummy?</p>
+<p begin="8013422082t" end="8043869166t" region="region.after.center" style="style.default" xml:id="subtitle262">BoJack, you wasted my thirties!"</p>
+<p begin="8044703332t" end="8067642916t" region="region.after.center" style="style.default" xml:id="subtitle263">I never said you wasted my thirties.</p>
+<p begin="8068477082t" end="8085994582t" region="region.after.center" style="style.default" xml:id="subtitle264">Didn't have to, you're always saying it.</p>
+<p begin="8086828749t" end="8131456666t" region="region.after.center" style="style.default" xml:id="subtitle265">And I don't like being around you,<br/>because I feel bad.</p>
+<p begin="8132290832t" end="8158567082t" region="region.after.center" style="style.default" xml:id="subtitle266">You make me feel bad.</p>
+<p begin="8159401249t" end="8189014166t" region="region.after.center" style="style.default" xml:id="subtitle267">So this isn't about me being a bad agent.</p>
+<p begin="8189848332t" end="8209034166t" region="region.after.center" style="style.default" xml:id="subtitle268">It's about a lot of things.</p>
+<p begin="8209868332t" end="8230722499t" region="region.after.center" style="style.default" xml:id="subtitle269">- Where are you going?<br/>- Away.</p>
+<p begin="8235727499t" end="8247405832t" region="region.after.center" style="style.default" xml:id="subtitle270">Hey, listen, man.</p>
+<p begin="8248239999t" end="8279938332t" region="region.after.center" style="style.default" xml:id="subtitle271">I don't wanna get in the middle of this,<br/>it's none of my business,</p>
+<p begin="8280772499t" end="8306631666t" region="region.after.center" style="style.default" xml:id="subtitle272">but I just have to say<br/>I love that sweater.</p>
+<p begin="8307465832t" end="8325817499t" region="region.after.center" style="style.default" xml:id="subtitle273">- Can you give it to me?<br/>- What? No.</p>
+<p begin="8326651666t" end="8347922916t" region="region.after.center" style="style.default" xml:id="subtitle274">I held my mouth open a really long time.</p>
+<p begin="8348757082t" end="8374199166t" region="region.after.center" style="style.default" xml:id="subtitle275">- What does that have to do--?<br/>- You're not being fair,</p>
+<p begin="8375033332t" end="8391716666t" region="region.after.center" style="style.default" xml:id="subtitle276">to me or Princess Katniss.</p>
+<p begin="8392550832t" end="8404229166t" region="region.after.center" style="style.default" xml:id="subtitle277">- Who?<br/>- Your friend.</p>
+<p begin="8405063332t" end="8435093332t" region="region.after.center" style="style.default" xml:id="subtitle278">You've forgotten her already?<br/>Typical BoSchwack.</p>
+<p begin="8435927499t" end="8448439999t" region="region.after.center" style="style.default" xml:id="subtitle279">That's enough out of you.</p>
+<p begin="8453862082t" end="8473882082t" region="region.after.center" style="style.default" xml:id="subtitle280">It's all right,<br/>you're gonna get through this.</p>
+<p begin="8474716249t" end="8498489999t" region="region.after.center" style="style.default" xml:id="subtitle281">- You're gonna get through this.<br/>- [woman] Are you okay?</p>
+<p begin="8499324166t" end="8522680832t" region="region.after.center" style="style.default" xml:id="subtitle282">Are you okay?<br/>You've been in there a long time.</p>
+<p begin="8523514999t" end="8542283749t" region="region.after.center" style="style.default" xml:id="subtitle283">[woman] I left for a while and came back.</p>
+<p begin="8543117916t" end="8570228332t" region="region.after.center" style="style.default" xml:id="subtitle284">Just so you know,<br/>this wasn't an easy decision.</p>
+<p begin="8571062499t" end="8594836250t" region="region.after.center" style="style.default" xml:id="subtitle285">- This is the ladies' room!<br/>- [woman] What's going on out there?</p>
+<p begin="8595670416t" end="8613605000t" region="region.after.center" style="style.default" xml:id="subtitle286">Are you watching a movie?</p>
+<p begin="8614439166t" end="8631539582t" region="region.after.center" style="style.default" xml:id="subtitle287">I agonized over this. Ask Ana.</p>
+<p begin="8638212916t" end="8668242916t" region="region.after.center" style="style.default" xml:id="subtitle288">- So you did talk about it with Ana.<br/>- Yeah. I respect her opinion.</p>
+<p begin="8686177500t" end="8702026666t" region="region.after.center" style="style.default" xml:id="subtitle289">[shouts]</p>
+<p begin="8714539166t" end="8728302916t" region="region.after.center" style="style.default" xml:id="subtitle290">Paws not claws! Paws not claws!</p>
+<p begin="8735810416t" end="8751242500t" region="region.after.center" style="style.default" xml:id="subtitle291">God, you're strong.</p>
+<p begin="8798790000t" end="8820061250t" region="region.after.center" style="style.default" xml:id="subtitle292">[BoJack groans]</p>
+<p begin="8835910416t" end="8872196666t" region="region.after.center" style="style.default" xml:id="subtitle293">This is exactly the kind of<br/>unprofessionalism I'm talking about.</p>
+<p begin="8873030832t" end="8910151250t" region="region.after.center" style="style.default" xml:id="subtitle294">- You want to talk about professionalism?<br/>- Yes, I do.</p>
+<p begin="8946020416t" end="8956864582t" region="region.after.center" style="style.default" xml:id="subtitle295">But not here.</p>
+<p begin="8984392082t" end="9011085416t" region="region.after.center" style="style.default" xml:id="subtitle296">You say you want professionalism?<br/>Bullshit.</p>
+<p begin="9011919582t" end="9039447082t" region="region.after.center" style="style.default" xml:id="subtitle297">You want a mommy<br/>you can slide your dick in.</p>
+<p begin="9040281250t" end="9063220832t" region="region.after.center" style="style.default" xml:id="subtitle298">I can want that<br/>and also want professionalism.</p>
+<p begin="9064055000t" end="9091999582t" region="region.after.center" style="style.default" xml:id="subtitle299">A sex-mommy who keeps her boundaries,<br/>is that too much to ask?</p>
+<p begin="9092833750t" end="9116190416t" region="region.after.center" style="style.default" xml:id="subtitle300">Is there a single woman<br/>you've worked with</p>
+<p begin="9117024582t" end="9148722916t" region="region.after.center" style="style.default" xml:id="subtitle301">who you haven't tried<br/>to groggily thrust yourself into?</p>
+<p begin="9149557082t" end="9175833332t" region="region.after.center" style="style.default" xml:id="subtitle302">Is it any wonder<br/>I don't want to be around you?</p>
+<p begin="9176667500t" end="9199190000t" region="region.after.center" style="style.default" xml:id="subtitle303">All you do is tell me<br/>I'm a terrible person.</p>
+<p begin="9200024166t" end="9229220000t" region="region.after.center" style="style.default" xml:id="subtitle304">Please, you're such<br/>a self-pitying masochist,</p>
+<p begin="9230054166t" end="9255496250t" region="region.after.center" style="style.default" xml:id="subtitle305">I could say ten nice things<br/>and one mean thing,</p>
+<p begin="9256330416t" end="9273430832t" region="region.after.center" style="style.default" xml:id="subtitle306">you would only hear the one mean thing.</p>
+<p begin="9274265000t" end="9296787500t" region="region.after.center" style="style.default" xml:id="subtitle307">I'd love it<br/>if you said ten nice things to me.</p>
+<p begin="9297621666t" end="9326817500t" region="region.after.center" style="style.default" xml:id="subtitle308">- I can say nice things.<br/>- Ready when you are.</p>
+<p begin="9327651666t" end="9357264582t" region="region.after.center" style="style.default" xml:id="subtitle309">Does self-pitying masochist count,<br/>or are we starting from scratch?</p>
+<p begin="9358098750t" end="9382706666t" region="region.after.center" style="style.default" xml:id="subtitle310">Okay, one-- I'm freezing my whiskers off.</p>
+<p begin="9383540832t" end="9415239166t" region="region.after.center" style="style.default" xml:id="subtitle311">- You have a natural charisma.<br/>- You hesitated, that means it's a lie.</p>
+<p begin="9416073332t" end="9435259166t" region="region.after.center" style="style.default" xml:id="subtitle312">Two, you are loved by millions.</p>
+<p begin="9436093332t" end="9464455000t" region="region.after.center" style="style.default" xml:id="subtitle313">That's not a compliment.<br/>So is Kim Jong Un and Teri Hatcher.</p>
+<p begin="9465289166t" end="9480304166t" region="region.after.center" style="style.default" xml:id="subtitle314">I got this. I got this.</p>
+<p begin="9481138332t" end="9501158332t" region="region.after.center" style="style.default" xml:id="subtitle315">Pre-heat oven?<br/>Where's the pre-heat button?</p>
+<p begin="9506997500t" end="9519927082t" region="region.after.center" style="style.default" xml:id="subtitle316">Excuse me? Waiter?</p>
+<p begin="9520761250t" end="9543700832t" region="region.after.center" style="style.default" xml:id="subtitle317">Where are my family's<br/>double-fudge cheese pies?</p>
+<p begin="9544535000t" end="9567474582t" region="region.after.center" style="style.default" xml:id="subtitle318">I'm not your waiter anymore.<br/>I'm the chef.</p>
+<p begin="9568308750t" end="9606263332t" region="region.after.center" style="style.default" xml:id="subtitle319">- Then who's our waiter?<br/>- You're the waiter now.</p>
+<p begin="9607097500t" end="9619610000t" region="region.after.center" style="style.default" xml:id="subtitle320">I can't be a waiter.</p>
+<p begin="9620444166t" end="9644635000t" region="region.after.center" style="style.default" xml:id="subtitle321">I have a very important<br/>business meeting tomorrow.</p>
+<p begin="9645469166t" end="9680504166t" region="region.after.center" style="style.default" xml:id="subtitle322">You get someone else to do it.<br/>I'm the chef and whatever I say goes!</p>
+<p begin="9681338332t" end="9704695000t" region="region.after.center" style="style.default" xml:id="subtitle323">Okay. Who gets these<br/>soy balls and onion cubes?</p>
+<p begin="9705529166t" end="9720544166t" region="region.after.center" style="style.default" xml:id="subtitle324">Table eight.<br/>Deliver those soy balls, soldier.</p>
+<p begin="9721378332t" end="9734725000t" region="region.after.center" style="style.default" xml:id="subtitle325">You got it, boss.</p>
+<p begin="9741815416t" end="9765172082t" region="region.after.center" style="style.default" xml:id="subtitle326">Number six.<br/>You know how to make me laugh.</p>
+<p begin="9766006250t" end="9792699582t" region="region.after.center" style="style.default" xml:id="subtitle327">So I'm a clown to you?<br/>Like Joe Pesci in <span style="style.default_1">Home Alone?</span></p>
+<p begin="9793533750t" end="9818558750t" region="region.after.center" style="style.default" xml:id="subtitle328">[laughs] You recognize<br/>you're being impossible, right?</p>
+<p begin="9819392916t" end="9864437916t" region="region.after.center" style="style.default" xml:id="subtitle329">- I don't know how you put up with me.<br/>- I didn't put up with you.</p>
+<p begin="9865272082t" end="9899472916t" region="region.after.center" style="style.default" xml:id="subtitle330">I liked being with you.<br/>And I don't regret it.</p>
+<p begin="9900307082t" end="9926166250t" region="region.after.center" style="style.default" xml:id="subtitle331">I don't regret the trip to the Bahamas.</p>
+<p begin="9927000416t" end="9952859582t" region="region.after.center" style="style.default" xml:id="subtitle332">Or the bracelet you bought me<br/>for my 38th birthday.</p>
+<p begin="9953693750t" end="9965372082t" region="region.after.center" style="style.default" xml:id="subtitle333">Or when my dad died</p>
+<p begin="9966206250t" end="9994567916t" region="region.after.center" style="style.default" xml:id="subtitle334">and you came to the funeral<br/>with me and held my hand.</p>
+<p begin="9995402082t" end="10024180832t" region="region.after.center" style="style.default" xml:id="subtitle335">I'm doing this for both of us.<br/>You understand?</p>
+<p begin="10025015000t" end="10054210832t" region="region.after.center" style="style.default" xml:id="subtitle336">- Did you ever love me? At all?<br/>- I don't-- I'm not--</p>
+<p begin="10068808750t" end="10108014582t" region="region.after.center" style="style.default" xml:id="subtitle337">You know that I don't do<br/>the whole love thing.</p>
+<p begin="10108848750t" end="10151391250t" region="region.after.center" style="style.default" xml:id="subtitle338">Either you end up hurting someone<br/>or they hurt you. So, what's the point?</p>
+<p begin="10152225416t" end="10163903750t" region="region.after.center" style="style.default" xml:id="subtitle339">Yeah.</p>
+<p begin="10172662500t" end="10191014166t" region="region.after.center" style="style.default" xml:id="subtitle340">This sucks.</p>
+<p begin="10191848332t" end="10221044166t" region="region.after.center" style="style.default" xml:id="subtitle341">I did this to myself. I do this to myself.</p>
+<p begin="10221878332t" end="10245235000t" region="region.after.center" style="style.default" xml:id="subtitle342">- Why do I do this to myself?<br/>- I don't know.</p>
+<p begin="10246069166t" end="10265672082t" region="region.after.center" style="style.default" xml:id="subtitle343">Maybe if you're good at putting out fires,</p>
+<p begin="10266506250t" end="10287777500t" region="region.after.center" style="style.default" xml:id="subtitle344">you just run from fire to fire<br/>and don't really think about--</p>
+<p begin="10288611666t" end="10298204582t" region="region.after.center" style="style.default" xml:id="subtitle345">[screams]</p>
+<p begin="10299038750t" end="10334073750t" region="region.after.center" style="style.default" xml:id="subtitle346">Oh, God, I don't wanna be a chef!<br/>I want to be not on fire!</p>
+<p begin="10334907916t" end="10370777082t" region="region.after.center" style="style.default" xml:id="subtitle347">- We gotta put out that fire!<br/>- I hate Mondays!</p>
+<p begin="10388294582t" end="10416656250t" region="region.after.center" style="style.default" xml:id="subtitle348">I figured out how to pre-heat the oven.</p>
+<p begin="10427083332t" end="10445435000t" region="region.after.center" style="style.default" xml:id="subtitle349">This night has been a disaster.</p>
+<p begin="10446269166t" end="10478384582t" region="region.after.center" style="style.default" xml:id="subtitle350">The good news is I got my kid<br/>to prep my important meeting at work.</p>
+<p begin="10479218750t" end="10502992500t" region="region.after.center" style="style.default" xml:id="subtitle351">The bad news is<br/>all the customers went home.</p>
+<p begin="10503826666t" end="10516339166t" region="region.after.center" style="style.default" xml:id="subtitle352">They didn't like the screaming</p>
+<p begin="10517173332t" end="10543032500t" region="region.after.center" style="style.default" xml:id="subtitle353">and felt like their food<br/>was a little too "on fire".</p>
+<p begin="10543866666t" end="10566806250t" region="region.after.center" style="style.default" xml:id="subtitle354">- It's called a char, dumbshits.<br/>- The critic's still here.</p>
+<p begin="10570142916t" end="10592248332t" region="region.after.center" style="style.default" xml:id="subtitle355">Oh, oh, oh!</p>
+<p begin="10595167916t" end="10615605000t" region="region.after.center" style="style.default" xml:id="subtitle356">She still wants her mushroom risotto.</p>
+<p begin="10631037082t" end="10655645000t" region="region.after.center" style="style.default" xml:id="subtitle357">I don't know how to make risotto.</p>
+<p begin="10656479166t" end="10666906250t" region="region.after.center" style="style.default" xml:id="subtitle358">I know how.</p>
+<p begin="10667740416t" end="10686092082t" region="region.after.center" style="style.default" xml:id="subtitle359">What are you doing? No, go home.</p>
+<p begin="10686926250t" end="10712785416t" region="region.after.center" style="style.default" xml:id="subtitle360">You're right. What am I doing?</p>
+<p begin="10713619582t" end="10726132082t" region="region.after.center" style="style.default" xml:id="subtitle361">All right.</p>
+<p begin="10752825416t" end="10763252500t" region="region.after.center" style="style.default" xml:id="subtitle362">Good luck.</p>
+<p begin="10812051250t" end="10837910416t" region="region.after.center" style="style.default" xml:id="subtitle363"><span style="style.default_1">Keep driving, keep driving</span></p>
+<p begin="10838744582t" end="10866689166t" region="region.after.center" style="style.default" xml:id="subtitle364"><span style="style.default_1">Girl, don't turn that car around</span></p>
+<p begin="10867523332t" end="10905477916t" region="region.after.center" style="style.default" xml:id="subtitle365"><span style="style.default_1">Break your pattern</span><br/><span style="style.default_1">Of needing to fix other people</span></p>
+<p begin="10906312082t" end="10924246666t" region="region.after.center" style="style.default" xml:id="subtitle366"><span style="style.default_1">Just keep on driving away...</span></p>
+<p begin="10925080832t" end="10939678750t" region="region.after.center" style="style.default" xml:id="subtitle367">KEEP DRIVING</p>
+<p begin="10958030416t" end="10974713750t" region="region.after.center" style="style.default" xml:id="subtitle368">Who do they write these songs for?</p>
+<p begin="10980552916t" end="11026432082t" region="region.after.center" style="style.default" xml:id="subtitle369"><span style="style.default_1">Don't go back to the restaurant,</span><br/><span style="style.default_1">Princess Carolyn</span></p>
+<p begin="11027266250t" end="11055627916t" region="region.after.center" style="style.default" xml:id="subtitle370"><span style="style.default_1">Just keep driving away</span></p>
+<p begin="11099004582t" end="11109431666t" region="region.after.center" style="style.default" xml:id="subtitle371">Goddamn it.</p>
+<p begin="11116939166t" end="11146552082t" region="region.after.center" style="style.default" xml:id="subtitle372">How should I know?<br/>Do I look like an expert in cooking oils?</p>
+<p begin="11147386250t" end="11173245416t" region="region.after.center" style="style.default" xml:id="subtitle373">We have to choose!<br/>We're running out of time.</p>
+<p begin="11174079582t" end="11204943750t" region="region.after.center" style="style.default" xml:id="subtitle374">- Olive. You wanna use olive oil.<br/>- What are you doing?</p>
+<p begin="11205777916t" end="11228717500t" region="region.after.center" style="style.default" xml:id="subtitle375">Let me do this.<br/>You'll burn the place to the ground.</p>
+<p begin="11229551666t" end="11260832916t" region="region.after.center" style="style.default" xml:id="subtitle376">Fine. This isn't one of those things<br/>where you save my ass</p>
+<p begin="11261667082t" end="11284189582t" region="region.after.center" style="style.default" xml:id="subtitle377">so I feel obligated to give you<br/>your job back.</p>
+<p begin="11285023750t" end="11311300000t" region="region.after.center" style="style.default" xml:id="subtitle378">I know you have no sense<br/>of obligation to me.</p>
+<p begin="11312134166t" end="11353425416t" region="region.after.center" style="style.default" xml:id="subtitle379">Ooh, slam. I'm sorry,<br/>I'd rather not get involved.</p>
+<p begin="11354259582t" end="11371777082t" region="region.after.center" style="style.default" xml:id="subtitle380">Can I get you some more water?</p>
+<p begin="11375947916t" end="11395967916t" region="region.after.center" style="style.default" xml:id="subtitle381">You look lovely. It's a great blouse.</p>
+<p begin="11396802082t" end="11416405000t" region="region.after.center" style="style.default" xml:id="subtitle382">Mom, I wanna go home.</p>
+<p begin="11417239166t" end="11438927500t" region="region.after.center" style="style.default" xml:id="subtitle383">This is a very important night<br/>for the restaurant.</p>
+<p begin="11439761666t" end="11474796666t" region="region.after.center" style="style.default" xml:id="subtitle384">How are we coming on the sales meeting?<br/>Did you get the big conference room?</p>
+<p begin="11475630832t" end="11514419582t" region="region.after.center" style="style.default" xml:id="subtitle385">Winslow wants the big conference room<br/>for his presentation to corporate.</p>
+<p begin="11515253750t" end="11545283750t" region="region.after.center" style="style.default" xml:id="subtitle386">You get back on that phone<br/>and you get me that big room.</p>
+<p begin="11546117916t" end="11564052500t" region="region.after.center" style="style.default" xml:id="subtitle387">Okay, Mom.</p>
+<p begin="11572394166t" end="11596585000t" region="region.after.center" style="style.default" xml:id="subtitle388">The secret is stirring continuously.</p>
+<p begin="11597419166t" end="11621610000t" region="region.after.center" style="style.default" xml:id="subtitle389">Right, so that's the secret.</p>
+<p begin="11622444166t" end="11657062082t" region="region.after.center" style="style.default" xml:id="subtitle390">I'm gonna go roll some more soy balls.</p>
+<p begin="11664986666t" end="11682087082t" region="region.after.center" style="style.default" xml:id="subtitle391">- Thanks for your help.<br/>- Sure.</p>
+<p begin="11682921250t" end="11701690000t" region="region.after.center" style="style.default" xml:id="subtitle392">How do you know how to do this?</p>
+<p begin="11702524166t" end="11722961250t" region="region.after.center" style="style.default" xml:id="subtitle393">Mom was a live-in maid for a rich family.</p>
+<p begin="11723795416t" end="11754659582t" region="region.after.center" style="style.default" xml:id="subtitle394">She had a little trouble<br/>bending her elbow too much.</p>
+<p begin="11755493750t" end="11799287500t" region="region.after.center" style="style.default" xml:id="subtitle395">Unless I wanted us to be on the street,<br/>I had to cover for her, a lot.</p>
+<p begin="11800121666t" end="11837659166t" region="region.after.center" style="style.default" xml:id="subtitle396">That rich family loved Italian food<br/>and champagne fountains.</p>
+<p begin="11838493332t" end="11870608750t" region="region.after.center" style="style.default" xml:id="subtitle397">And cocaine. And private jets.<br/>And screaming at each other.</p>
+<p begin="11871442916t" end="11896467916t" region="region.after.center" style="style.default" xml:id="subtitle398">"Who threw my cocaine<br/>in the champagne fountain?"</p>
+<p begin="11897302082t" end="11923161250t" region="region.after.center" style="style.default" xml:id="subtitle399">- So standard rich people stuff?<br/>- I guess.</p>
+<p begin="11931502916t" end="11959030416t" region="region.after.center" style="style.default" xml:id="subtitle400">- How come you never told me that?<br/>- I did.</p>
+<p begin="11968206250t" end="11988226250t" region="region.after.center" style="style.default" xml:id="subtitle401">It's okay. I know<br/>you never remember anything.</p>
+<p begin="11989060416t" end="12018673332t" region="region.after.center" style="style.default" xml:id="subtitle402">That's not true.<br/>I remember the first time we met.</p>
+<p begin="12019507500t" end="12051205832t" region="region.after.center" style="style.default" xml:id="subtitle403">I went to see Marv. You were<br/>at the desk in front of his office.</p>
+<p begin="12052040000t" end="12085823750t" region="region.after.center" style="style.default" xml:id="subtitle404">I thought you were cute and you said,<br/>"It's good to see you again."</p>
+<p begin="12100004582t" end="12132537082t" region="region.after.center" style="style.default" xml:id="subtitle405">- So I guess we'd met before.<br/>- That was the third time we met.</p>
+<p begin="12133371250t" end="12173411250t" region="region.after.center" style="style.default" xml:id="subtitle406">The first time was when I was an intern.<br/>I delivered a script to your house.</p>
+<p begin="12182170000t" end="12211365832t" region="region.after.center" style="style.default" xml:id="subtitle407">You were passed out in the yard,<br/>covered in tapioca pudding.</p>
+<p begin="12212200000t" end="12239727500t" region="region.after.center" style="style.default" xml:id="subtitle408">I hosed you down, dragged you inside,<br/>covered you with a blanket.</p>
+<p begin="12240561666t" end="12266003750t" region="region.after.center" style="style.default" xml:id="subtitle409">- Really? I don't remember that.<br/>- Shocker.</p>
+<p begin="12266837916t" end="12300204582t" region="region.after.center" style="style.default" xml:id="subtitle410">So you've gone from daughter of a maid<br/>to head of your own company.</p>
+<p begin="12301038750t" end="12323144166t" region="region.after.center" style="style.default" xml:id="subtitle411">The company's not doing so hot.</p>
+<p begin="12323978332t" end="12347752082t" region="region.after.center" style="style.default" xml:id="subtitle412">- Don't try to guilt me.<br/>- It's not your fault.</p>
+<p begin="12348586250t" end="12381535832t" region="region.after.center" style="style.default" xml:id="subtitle413">Turns out being an agent and running<br/>an agency are two different skills.</p>
+<p begin="12382370000t" end="12418656250t" region="region.after.center" style="style.default" xml:id="subtitle414">It's like asking a really delicious tomato<br/>to make you a tomato sandwich.</p>
+<p begin="12419490416t" end="12447435000t" region="region.after.center" style="style.default" xml:id="subtitle415">How's a tomato gonna make you<br/>a sandwich? He's got no arms.</p>
+<p begin="12448269166t" end="12475379582t" region="region.after.center" style="style.default" xml:id="subtitle416">You'll figure it out. Princess Carolyn<br/>always lands on her feet.</p>
+<p begin="12476213750t" end="12509163332t" region="region.after.center" style="style.default" xml:id="subtitle417">But I don't even know why I'm doing it.<br/>Does any of it matter?</p>
+<p begin="12509997500t" end="12540027500t" region="region.after.center" style="style.default" xml:id="subtitle418">Why are you an agent at all<br/>if it makes you so miserable?</p>
+<p begin="12540861666t" end="12552540000t" region="region.after.center" style="style.default" xml:id="subtitle419">Because I'm good at it.</p>
+<p begin="12553374166t" end="12592162916t" region="region.after.center" style="style.default" xml:id="subtitle420">I mean, stuff hasn't been hitting lately.<br/>But, usually, I'm really good at it.</p>
+<p begin="12592997082t" end="12618439166t" region="region.after.center" style="style.default" xml:id="subtitle421">Just 'cause you're good at something<br/>doesn't mean you have to do it.</p>
+<p begin="12619273332t" end="12648469166t" region="region.after.center" style="style.default" xml:id="subtitle422">I'm good at driving sober,<br/>but I don't relish the opportunity.</p>
+<p begin="12649303332t" end="12683087082t" region="region.after.center" style="style.default" xml:id="subtitle423">But what else would I do?<br/>Who else would I be?</p>
+<p begin="12698936250t" end="12717287916t" region="region.after.center" style="style.default" xml:id="subtitle424">I do love you, by the way.</p>
+<p begin="12718122082t" end="12753574166t" region="region.after.center" style="style.default" xml:id="subtitle425">I mean, as much<br/>as I'm capable of loving anyone.</p>
+<p begin="12754408332t" end="12784855416t" region="region.after.center" style="style.default" xml:id="subtitle426">Which is never enough. I'm sorry.</p>
+<p begin="12831985832t" end="12844498332t" region="region.after.center" style="style.default" xml:id="subtitle427">Ta-da!</p>
+<p begin="12879116250t" end="12935005416t" region="region.after.center" style="style.default" xml:id="subtitle428">Well, it is truly...</p>
+<p begin="12935839582t" end="12973377082t" region="region.after.center" style="style.default" xml:id="subtitle429">how should I put this? Wonderful.</p>
+<p begin="12974211250t" end="12996316666t" region="region.after.center" style="style.default" xml:id="subtitle430">So you'll give Elefante a good review?</p>
+<p begin="12997150832t" end="13047617916t" region="region.after.center" style="style.default" xml:id="subtitle431">No, I can't do that.<br/>I waited over two hours to be served.</p>
+<p begin="13048452082t" end="13083487082t" region="region.after.center" style="style.default" xml:id="subtitle432">The ambience was terrible.<br/>You two were screaming all night.</p>
+<p begin="13084321250t" end="13117270832t" region="region.after.center" style="style.default" xml:id="subtitle433">At one point, a waiter<br/>ran through the restaurant on fire.</p>
+<p begin="13118105000t" end="13153557082t" region="region.after.center" style="style.default" xml:id="subtitle434">Unfortunately,<br/>you will be receiving my lowest rating:</p>
+<p begin="13154391250t" end="13190260416t" region="region.after.center" style="style.default" xml:id="subtitle435">four hundred and twelve stars,<br/>out of a possible a billion.</p>
+<p begin="13191094582t" end="13201938750t" region="region.after.center" style="style.default" xml:id="subtitle436">A billion stars?</p>
+<p begin="13202772916t" end="13243230000t" region="region.after.center" style="style.default" xml:id="subtitle437">Yes, that's the rubric I use on<br/>SamanthaGoesToRestaurants.tumblr.com.</p>
+<p begin="13244064166t" end="13258245000t" region="region.after.center" style="style.default" xml:id="subtitle438">Oh, God, get out.</p>
+<p begin="13268255000t" end="13294531250t" region="region.after.center" style="style.default" xml:id="subtitle439">I assure you the animated GIFs</p>
+<p begin="13295365416t" end="13332902916t" region="region.after.center" style="style.default" xml:id="subtitle440">with which I describe this encounter<br/>shall be scathing.</p>
+<p begin="13333737082t" end="13366686666t" region="region.after.center" style="style.default" xml:id="subtitle441">Mom! I just touched base<br/>with Rooney, re: Winslow.</p>
+<p begin="13367520832t" end="13401721666t" region="region.after.center" style="style.default" xml:id="subtitle442">He's out, we're in.<br/>The conference room is ours.</p>
+<p begin="13402555832t" end="13435922500t" region="region.after.center" style="style.default" xml:id="subtitle443">Perfect! This is the meeting<br/>where we finally convince the big boys</p>
+<p begin="13436756666t" end="13456359582t" region="region.after.center" style="style.default" xml:id="subtitle444">to let us get babies addicted to vaping!</p>
+<p begin="13457193749t" end="13484304166t" region="region.after.center" style="style.default" xml:id="subtitle445">Yes! Corporation!</p>
+<p begin="13485138332t" end="13508912082t" region="region.after.center" style="style.default" xml:id="subtitle446">[all cheer]</p>
+<p begin="13530183332t" end="13548117916t" region="region.after.center" style="style.default" xml:id="subtitle447">- How about a drink?<br/>- I could drink.</p>
+<p begin="13548952082t" end="13568972082t" region="region.after.center" style="style.default" xml:id="subtitle448">I don't think I can. I'm heading out.</p>
+<p begin="13569806249t" end="13597333749t" region="region.after.center" style="style.default" xml:id="subtitle449">I got pretty badly burnt earlier<br/>and in a lot of pain.</p>
+<p begin="13598167916t" end="13622358749t" region="region.after.center" style="style.default" xml:id="subtitle450">I should probably go to the ER.<br/>Have a great night.</p>
+<p begin="13623192916t" end="13639876249t" region="region.after.center" style="style.default" xml:id="subtitle451">[groans]</p>
+<p begin="13687006666t" end="13701604582t" region="region.after.center" style="style.default" xml:id="subtitle452">What's the second time we met?</p>
+<p begin="13702438749t" end="13737056666t" region="region.after.center" style="style.default" xml:id="subtitle453">- A taping of <span style="style.default_1">Horsin' Around.</span><br/>- Which episode?</p>
+<p begin="13737890832t" end="13769589166t" region="region.after.center" style="style.default" xml:id="subtitle454">The one where Olivia put too much<br/>detergent in the washing machine.</p>
+<p begin="13770423332t" end="13791277499t" region="region.after.center" style="style.default" xml:id="subtitle455">Oh, yeah.<br/>Nancy Reagan was the guest star.</p>
+<p begin="13792111666t" end="13816719582t" region="region.after.center" style="style.default" xml:id="subtitle456">That woman<br/>was the real actor in the family.</p>
+<p begin="13817553749t" end="13858427916t" region="region.after.center" style="style.default" xml:id="subtitle457">I had just started working for Marv.<br/>I went backstage to introduce myself.</p>
+<p begin="13864684166t" end="13875528332t" region="region.after.center" style="style.default" xml:id="subtitle458">And then what happened?</p>
+<p begin="13876362499t" end="13904724166t" region="region.after.center" style="style.default" xml:id="subtitle459">You told me you were too tired<br/>pretending to be nice all night,</p>
+<p begin="13905558332t" end="13925578332t" region="region.after.center" style="style.default" xml:id="subtitle460">and to leave you alone.</p>
+<p begin="13931417499t" end="13946432499t" region="region.after.center" style="style.default" xml:id="subtitle461">I'm a real jerk, huh?</p>
+<p begin="13947266666t" end="13970206249t" region="region.after.center" style="style.default" xml:id="subtitle462">Yeah, but you're honest,<br/>straightforward,</p>
+<p begin="13971040416t" end="13993145832t" region="region.after.center" style="style.default" xml:id="subtitle463">not fake nice<br/>and don't beat around the bush.</p>
+<p begin="13993979999t" end="14019422082t" region="region.after.center" style="style.default" xml:id="subtitle464">Your heart is tender,<br/>so you protect it from people,</p>
+<p begin="14020256249t" end="14060296249t" region="region.after.center" style="style.default" xml:id="subtitle465">but sometimes you open up a wall<br/>and it's incredible.</p>
+<p begin="14061130416t" end="14095748332t" region="region.after.center" style="style.default" xml:id="subtitle466">You're doing the best you can,<br/>considering your asshole parents.</p>
+<p begin="14096582499t" end="14110763332t" region="region.after.center" style="style.default" xml:id="subtitle467">You have great taste in art,</p>
+<p begin="14111597499t" end="14140793332t" region="region.after.center" style="style.default" xml:id="subtitle468">and that pink spot<br/>on your nose is just adorable.</p>
+<p begin="14141627499t" end="14160813332t" region="region.after.center" style="style.default" xml:id="subtitle469">How many nice things was that,<br/>about ten?</p>
+<p begin="14161647499t" end="14185838332t" region="region.after.center" style="style.default" xml:id="subtitle470">- Just about.<br/>- Okay, one more.</p>
+<p begin="14186672499t" end="14217119582t" region="region.after.center" style="style.default" xml:id="subtitle471">You let me help you tonight<br/>because you knew I needed it.</p>
+<p begin="14217953749t" end="14246315416t" region="region.after.center" style="style.default" xml:id="subtitle472">You did it for me,<br/>which was very sweet.</p>
+<p begin="14247149582t" end="14278430832t" region="region.after.center" style="style.default" xml:id="subtitle473">Thanks. You're a good friend to me.</p>
+<p begin="14286355416t" end="14305541249t" region="region.after.center" style="style.default" xml:id="subtitle474">- BoJack...<br/>- Yeah?</p>
+<p begin="14306375416t" end="14318887916t" region="region.after.center" style="style.default" xml:id="subtitle475">Are we friends?</p>
+<p begin="14319722082t" end="14343495832t" region="region.after.center" style="style.default" xml:id="subtitle476">Yeah. I mean, I think we are.</p>
+<p begin="14344329999t" end="14363932916t" region="region.after.center" style="style.default" xml:id="subtitle477">Or I think we can be.</p>
+<p begin="14364767082t" end="14399384999t" region="region.after.center" style="style.default" xml:id="subtitle478">Okay, then as a friend, I'm asking you...</p>
+<p begin="14400219166t" end="14416902499t" region="region.after.center" style="style.default" xml:id="subtitle479">Please don't leave me.</p>
+<p begin="14417736666t" end="14432751666t" region="region.after.center" style="style.default" xml:id="subtitle480">- Princess Carolyn--<br/>- Please.</p>
+<p begin="14433585832t" end="14460696249t" region="region.after.center" style="style.default" xml:id="subtitle481">I can turn this around,<br/>I just need more time.</p>
+<p begin="14461530416t" end="14484052916t" region="region.after.center" style="style.default" xml:id="subtitle482">We're in a fragile period,<br/>still finding our feet.</p>
+<p begin="14484887082t" end="14509912082t" region="region.after.center" style="style.default" xml:id="subtitle483">Just give me six months<br/>and then you can go.</p>
+<p begin="14510746249t" end="14542444582t" region="region.after.center" style="style.default" xml:id="subtitle484">I promise,<br/>I'll never ask anything from you again,</p>
+<p begin="14543278749t" end="14572474582t" region="region.after.center" style="style.default" xml:id="subtitle485">but please, give me six months.</p>
+<p begin="14573308749t" end="14594997082t" region="region.after.center" style="style.default" xml:id="subtitle486">Sorry, I left my coat here.</p>
+<p begin="14595831249t" end="14615851249t" region="region.after.center" style="style.default" xml:id="subtitle487">[whistles]</p>
+<p begin="14656725416t" end="14669654999t" region="region.after.center" style="style.default" xml:id="subtitle488">[waiter] I got it.</p>
+<p begin="14731383332t" end="14765167082t" region="region.after.center" style="style.default" xml:id="subtitle489">So? What do you think?</p>
+<p begin="14772674582t" end="14781016249t" region="region.after.center" style="style.default" xml:id="subtitle490">No.</p>
+</div>
+</body>
+</tt>

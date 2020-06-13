@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="defaultStyle"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" tts:textAlign="center" xml:id="defaultStyle_1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="defaultStyle_2"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" xml:id="region.after"/>
+<region tts:backgroundColor="transparent" tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" xml:id="region.before"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="131381249t" end="152235416t" region="region.after" style="defaultStyle" xml:id="subtitle0">Why do I have to go to this thing?</p>
+<p begin="153069582t" end="177260416t" region="region.after" style="defaultStyle" xml:id="subtitle1">If we want to be<br/>a legitimate awards contender,</p>
+<p begin="178094582t" end="206873332t" region="region.after" style="defaultStyle" xml:id="subtitle2"><span style="defaultStyle_1">Secretariat </span>needs to make an appearance<br/>at a big festival.</p>
+<p begin="207707500t" end="231064166t" region="region.after" style="defaultStyle" xml:id="subtitle3">-I can't just go to Cannes?<br/>-You Cannes not.</p>
+<p begin="231898332t" end="253586666t" region="region.after" style="defaultStyle" xml:id="subtitle4">Apparently, the French do not care for you</p>
+<p begin="254420832t" end="274857916t" region="region.after" style="defaultStyle" xml:id="subtitle5">ever since you said that thing<br/>in the press.</p>
+<p begin="275692082t" end="296963332t" region="region.after" style="defaultStyle" xml:id="subtitle6">Hey, I stand by my critique of Sartre.</p>
+<p begin="297797500t" end="338254582t" region="region.after" style="defaultStyle" xml:id="subtitle7">His philosophical arguments helped<br/>tyrannical regimes justify overt cruelty.</p>
+<p begin="339088750t" end="354937916t" region="region.after" style="defaultStyle" xml:id="subtitle8">Also, the French smell and I hate them.</p>
+<p begin="355772082t" end="387887500t" region="region.after" style="defaultStyle" xml:id="subtitle9">And you can't go to Sundance<br/>because Robert Redford hates you.</p>
+<p begin="388721666t" end="416249166t" region="region.after" style="defaultStyle" xml:id="subtitle10">Someone had to tell him<br/><span style="defaultStyle_1">The Horse Whisperer </span>was offensive.</p>
+<p begin="417083332t" end="444610832t" region="region.after" style="defaultStyle" xml:id="subtitle11">Sorry, but real horses don't just do<br/>whatever someone says.</p>
+<p begin="445444999t" end="472555416t" region="region.after" style="defaultStyle" xml:id="subtitle12">And that's why you need to go<br/>to this festival.</p>
+<p begin="473389582t" end="488821666t" region="region.after" style="defaultStyle" xml:id="subtitle13">[sighs] If you say so.</p>
+<p begin="489655832t" end="515097916t" region="region.after" style="defaultStyle" xml:id="subtitle14">The Pacific Ocean Film Fest, or POFF,</p>
+<p begin="515932082t" end="549715832t" region="region.after" style="defaultStyle" xml:id="subtitle15">is the biggest underwater film festival<br/>in the world.</p>
+<p begin="550550000t" end="583082500t" region="region.after" style="defaultStyle" xml:id="subtitle16">You make a splash there,<br/>people are going to notice.</p>
+<p begin="583916666t" end="593092500t" region="region.after" style="defaultStyle" xml:id="subtitle17">Fine.</p>
+<p begin="593926666t" end="625207916t" region="region.after" style="defaultStyle" xml:id="subtitle18">All you need to do is get<br/>to the premiere on time, 8:00.</p>
+<p begin="626042082t" end="659825832t" region="region.after" style="defaultStyle" xml:id="subtitle19">Walk the red carpet, wave at the crowd,<br/>kiss some fish babies.</p>
+<p begin="660660000t" end="679428750t" region="region.after" style="defaultStyle" xml:id="subtitle20">[groans] Fish. They're so annoying.</p>
+<p begin="680262916t" end="712378332t" region="region.after" style="defaultStyle" xml:id="subtitle21">-[squeaking]<br/>-Sorry, lady. No <span style="defaultStyle_1">habla </span>fish talk.</p>
+<p begin="713212500t" end="749915832t" region="region.after" style="defaultStyle" xml:id="subtitle22">You need to be sensitive to their culture.<br/>Things are different down there.</p>
+<p begin="750750000t" end="773689582t" region="region.after" style="defaultStyle" xml:id="subtitle23">You know what a thumb's up means, right?</p>
+<p begin="774523750t" end="799548750t" region="region.after" style="defaultStyle" xml:id="subtitle24">Yes, I know what a thumb's up means.<br/>I'll be fine.</p>
+<p begin="800382916t" end="817900416t" region="region.after" style="defaultStyle" xml:id="subtitle25">Oh, I wanted to warn you.</p>
+<p begin="818734582t" end="852935416t" region="region.after" style="defaultStyle" xml:id="subtitle26">Kelsey Jannings<br/>is also going to be at the festival.</p>
+<p begin="853769582t" end="873789582t" region="region.after" style="defaultStyle" xml:id="subtitle27">-Kelsey? No.<br/>-She has another film there.</p>
+<p begin="874623749t" end="900065832t" region="region.after" style="defaultStyle" xml:id="subtitle28">I haven't talked to her<br/>since she got fired from <span style="defaultStyle_1">Secretariat.</span></p>
+<p begin="900899999t" end="938437499t" region="region.after" style="defaultStyle" xml:id="subtitle29">Well, luckily you won't have to talk much<br/>because you'll both be underwater.</p>
+<p begin="939271666t" end="960125832t" region="region.after" style="defaultStyle" xml:id="subtitle30">God, I haven't been underwater</p>
+<p begin="960959999t" end="989321666t" region="region.after" style="defaultStyle" xml:id="subtitle31">since my mother tried to drown me<br/>in the bathtub when I was 22.</p>
+<p begin="990155832t" end="1010175832t" region="region.after" style="defaultStyle" xml:id="subtitle32">I can't do this, Ana. I'm sorry.</p>
+<p begin="1011009999t" end="1024356666t" region="region.after" style="defaultStyle" xml:id="subtitle33">-Sir.<br/>-I'm getting off.</p>
+<p begin="1025190832t" end="1053135416t" region="region.after" style="defaultStyle" xml:id="subtitle34">You can't.<br/>We've already pressurized the cabin.</p>
+<p begin="1053969582t" end="1089421666t" region="region.after" style="defaultStyle" xml:id="subtitle35">-Sir, please return to your seat.<br/>-No. I don't want to do this.</p>
+<p begin="1090255832t" end="1101934166t" region="region.after" style="defaultStyle" xml:id="subtitle36">You can't make me.</p>
+<p begin="1102768332t" end="1121537082t" region="region.after" style="defaultStyle" xml:id="subtitle37">I'm a land creature.<br/>I don't belong down there.</p>
+<p begin="1122371250t" end="1143642500t" region="region.after" style="defaultStyle" xml:id="subtitle38">You can lead me to water,<br/>but you cannot make--</p>
+<p begin="1144476666t" end="1155737916t" region="region.after" style="defaultStyle" xml:id="subtitle39">-[electricity crackling]<br/>-Aaaah!</p>
+<p begin="1213712500t" end="1227893332t" region="region.before" style="defaultStyle_2" xml:id="subtitle40">[funky electronic music]</p>
+<p begin="1228727500t" end="1296295000t" region="region.after" style="defaultStyle" xml:id="subtitle41"><span style="defaultStyle_1">♪♪</span></p>
+<p begin="1793041249t" end="1810141666t" region="region.after" style="defaultStyle" xml:id="subtitle42">[horn honking]</p>
+<p begin="1834332499t" end="1858523332t" region="region.after" style="defaultStyle" xml:id="subtitle43">[gurgling]</p>
+<p begin="1868116249t" end="1876457916t" region="region.after" style="defaultStyle" xml:id="subtitle44">[trills]</p>
+<p begin="1893558332t" end="1906904999t" region="region.after" style="defaultStyle" xml:id="subtitle45">[gurgling screams]</p>
+<p begin="1992407082t" end="2014929582t" region="region.after" style="defaultStyle" xml:id="subtitle46">[gurgles and grunts]</p>
+<p begin="2057054999t" end="2070818749t" region="region.before" style="defaultStyle_2" xml:id="subtitle47">[inaudible]</p>
+<p begin="2077074999t" end="2089587499t" region="region.before" style="defaultStyle_2" xml:id="subtitle48">[gurgling]</p>
+<p begin="2180511666t" end="2196777916t" region="region.before" style="defaultStyle_2" xml:id="subtitle49">[gurgles and babbles]</p>
+<p begin="2197612082t" end="2215963750t" region="region.before" style="defaultStyle_2" xml:id="subtitle50">[laughing]</p>
+<p begin="2794041250t" end="2811975832t" region="region.after" style="defaultStyle" xml:id="subtitle51">-<span style="defaultStyle_1">Mm-hmm.</span><br/>-[gurgling]</p>
+<p begin="2812810000t" end="2821568750t" region="region.after" style="defaultStyle" xml:id="subtitle52">[whimpers]</p>
+<p begin="2837000832t" end="2866613750t" region="region.after" style="defaultStyle" xml:id="subtitle53">[dramatic music playing]</p>
+<p begin="2867447916t" end="2896643750t" region="region.after" style="defaultStyle" xml:id="subtitle54">[guitar music playing]</p>
+<p begin="2907070832t" end="2917915000t" region="region.after" style="defaultStyle" xml:id="subtitle55">[gurgling]</p>
+<p begin="2950864582t" end="2962125832t" region="region.after" style="defaultStyle" xml:id="subtitle56"><span style="defaultStyle_1">Uh-oh!</span></p>
+<p begin="2978809166t" end="3003834166t" region="region.after" style="defaultStyle" xml:id="subtitle57">[gurgling]</p>
+<p begin="3004668332t" end="3036783750t" region="region.after" style="defaultStyle" xml:id="subtitle58">[dance music playing]</p>
+<p begin="3361274582t" end="3372952916t" region="region.before" style="defaultStyle_2" xml:id="subtitle59">[bell dings]</p>
+<p begin="3411741666t" end="3431761666t" region="region.before" style="defaultStyle_2" xml:id="subtitle60">[gurgling]</p>
+<p begin="3455118332t" end="3478474999t" region="region.before" style="defaultStyle_2" xml:id="subtitle61">[gurgling]</p>
+<p begin="3555218332t" end="3596509582t" region="region.after" style="defaultStyle" xml:id="subtitle62">[gurgling]</p>
+<p begin="3690353332t" end="3717880832t" region="region.after" style="defaultStyle" xml:id="subtitle63">[gurgling]</p>
+<p begin="3765845416t" end="3778357916t" region="region.after" style="defaultStyle" xml:id="subtitle64">[laughing]</p>
+<p begin="3846759582t" end="3870950416t" region="region.after" style="defaultStyle" xml:id="subtitle65">-[flashbulb clicking]<br/>-[gurgling]</p>
+<p begin="3887216666t" end="3901397499t" region="region.after" style="defaultStyle" xml:id="subtitle66">[gasping]</p>
+<p begin="4240903332t" end="4259254999t" region="region.after" style="defaultStyle" xml:id="subtitle67">[camera shutters clicking]</p>
+<p begin="4280109166t" end="4294289999t" region="region.after" style="defaultStyle" xml:id="subtitle68">-[sac pops]<br/>-[gasps and growls]</p>
+<p begin="4633795832t" end="4644222916t" region="region.after" style="defaultStyle" xml:id="subtitle69">[gurgles]</p>
+<p begin="4698026666t" end="4721383332t" region="region.after" style="defaultStyle" xml:id="subtitle70">[horns honking]</p>
+<p begin="4950779166t" end="4969965000t" region="region.after" style="defaultStyle" xml:id="subtitle71">-[tire skidding]<br/>-[gurgling]</p>
+<p begin="4984562916t" end="4994155832t" region="region.after" style="defaultStyle" xml:id="subtitle72">-[brakes screeching]<br/>-[horn honks]</p>
+<p begin="5160989166t" end="5179340832t" region="region.after" style="defaultStyle" xml:id="subtitle73">[gurgling]</p>
+<p begin="5403314582t" end="5427505416t" region="region.after" style="defaultStyle" xml:id="subtitle74">[gurgling]</p>
+<p begin="5618112500t" end="5638966666t" region="region.after" style="defaultStyle" xml:id="subtitle75">[grunting]</p>
+<p begin="5653981666t" end="5683177500t" region="region.after" style="defaultStyle" xml:id="subtitle76">[groaning]</p>
+<p begin="5805800000t" end="5837498332t" region="region.after" style="defaultStyle" xml:id="subtitle77">[gurgling]</p>
+<p begin="5855850000t" end="5872116250t" region="region.after" style="defaultStyle" xml:id="subtitle78">[grunting]</p>
+<p begin="5952613332t" end="5975970000t" region="region.after" style="defaultStyle" xml:id="subtitle79">[gurgling]</p>
+<p begin="6017678332t" end="6036864166t" region="region.after" style="defaultStyle" xml:id="subtitle80">[bubbling]</p>
+<p begin="6037698332t" end="6053130416t" region="region.after" style="defaultStyle" xml:id="subtitle81">[gurgling and grunting]</p>
+<p begin="6081909166t" end="6102763332t" region="region.after" style="defaultStyle" xml:id="subtitle82">[gurgling and giggling]</p>
+<p begin="6177004166t" end="6187431250t" region="region.after" style="defaultStyle" xml:id="subtitle83">[whistles]</p>
+<p begin="6700026666t" end="6710453750t" region="region.after" style="defaultStyle" xml:id="subtitle84">[clanging]</p>
+<p begin="6779272499t" end="6805548749t" region="region.after" style="defaultStyle" xml:id="subtitle85">[gurgling]</p>
+<p begin="6818478332t" end="6830573749t" region="region.after" style="defaultStyle" xml:id="subtitle86">[giggling]</p>
+<p begin="6855598749t" end="6870196666t" region="region.after" style="defaultStyle" xml:id="subtitle87">[laughing]</p>
+<p begin="6884377499t" end="6894387499t" region="region.after" style="defaultStyle" xml:id="subtitle88">[giggles]</p>
+<p begin="6909819582t" end="6921914999t" region="region.after" style="defaultStyle" xml:id="subtitle89">[gurgling]</p>
+<p begin="6935678749t" end="6950276666t" region="region.after" style="defaultStyle" xml:id="subtitle90">[giggles]</p>
+<p begin="6965291666t" end="6988648332t" region="region.after" style="defaultStyle" xml:id="subtitle91">[laughs and gurgles]</p>
+<p begin="7037029999t" end="7049125416t" region="region.after" style="defaultStyle" xml:id="subtitle92">[gurgling]</p>
+<p begin="7182174999t" end="7198858332t" region="region.after" style="defaultStyle" xml:id="subtitle93">[gurgling]</p>
+<p begin="7265591666t" end="7286862916t" region="region.after" style="defaultStyle" xml:id="subtitle94">[gurgling]</p>
+<p begin="7321480832t" end="7338998332t" region="region.after" style="defaultStyle" xml:id="subtitle95">[gurgling]</p>
+<p begin="7351510832t" end="7371947916t" region="region.after" style="defaultStyle" xml:id="subtitle96">[giggling]</p>
+<p begin="7398224166t" end="7411987916t" region="region.after" style="defaultStyle" xml:id="subtitle97">[gurgling]</p>
+<p begin="7436595832t" end="7456615832t" region="region.after" style="defaultStyle" xml:id="subtitle98">[gurgling]</p>
+<p begin="7519178332t" end="7539198332t" region="region.after" style="defaultStyle" xml:id="subtitle99">[gurgling]</p>
+<p begin="7562554999t" end="7573816249t" region="region.after" style="defaultStyle" xml:id="subtitle100">[gasps]</p>
+<p begin="7574650416t" end="7600509582t" region="region.after" style="defaultStyle" xml:id="subtitle101">[crying]</p>
+<p begin="7683092082t" end="7695187499t" region="region.after" style="defaultStyle" xml:id="subtitle102">[gasps]</p>
+<p begin="7709785416t" end="7730639582t" region="region.after" style="defaultStyle" xml:id="subtitle103">[retches and sobs]</p>
+<p begin="7748574166t" end="7757332916t" region="region.after" style="defaultStyle" xml:id="subtitle104">[squeals]</p>
+<p begin="7766925832t" end="7780272499t" region="region.after" style="defaultStyle" xml:id="subtitle105">[gurgles]</p>
+<p begin="7781106666t" end="7801126666t" region="region.after" style="defaultStyle" xml:id="subtitle106">[crying]</p>
+<p begin="7815307499t" end="7828654166t" region="region.after" style="defaultStyle" xml:id="subtitle107">[sucking]</p>
+<p begin="7837829999t" end="7868694166t" region="region.after" style="defaultStyle" xml:id="subtitle108">[crying]</p>
+<p begin="8015507499t" end="8032607916t" region="region.after" style="defaultStyle" xml:id="subtitle109">[door chime ringing]</p>
+<p begin="8033442082t" end="8059301249t" region="region.after" style="defaultStyle" xml:id="subtitle110">[crying]</p>
+<p begin="8292450832t" end="8304963332t" region="region.after" style="defaultStyle" xml:id="subtitle111">[bell dings]</p>
+<p begin="8305797499t" end="8320812499t" region="region.after" style="defaultStyle" xml:id="subtitle112">[crying]</p>
+<p begin="8327068749t" end="8337495832t" region="region.after" style="defaultStyle" xml:id="subtitle113">[grumbles]</p>
+<p begin="8356681666t" end="8375450416t" region="region.after" style="defaultStyle" xml:id="subtitle114">[grumbles]</p>
+<p begin="8440515416t" end="8454696249t" region="region.after" style="defaultStyle" xml:id="subtitle115">[chuckling]</p>
+<p begin="8488062916t" end="8505163332t" region="region.after" style="defaultStyle" xml:id="subtitle116">[growling]</p>
+<p begin="8518927082t" end="8531439582t" region="region.after" style="defaultStyle" xml:id="subtitle117">[door chime rings]</p>
+<p begin="8561886666t" end="8581906666t" region="region.after" style="defaultStyle" xml:id="subtitle118">[grumbling]</p>
+<p begin="8699941250t" end="8725800416t" region="region.after" style="defaultStyle" xml:id="subtitle119">[crying]</p>
+<p begin="8783775000t" end="8795870416t" region="region.after" style="defaultStyle" xml:id="subtitle120">[burps]</p>
+<p begin="8796704582t" end="8814222082t" region="region.after" style="defaultStyle" xml:id="subtitle121">[giggling]</p>
+<p begin="8953945000t" end="8968125832t" region="region.after" style="defaultStyle" xml:id="subtitle122">[whistles]</p>
+<p begin="9001492500t" end="9025683332t" region="region.after" style="defaultStyle" xml:id="subtitle123">[giggling]</p>
+<p begin="9172913750t" end="9194185000t" region="region.after" style="defaultStyle" xml:id="subtitle124">[growling]</p>
+<p begin="9283023750t" end="9300958332t" region="region.after" style="defaultStyle" xml:id="subtitle125">[grumbling]</p>
+<p begin="9313887916t" end="9335159166t" region="region.after" style="defaultStyle" xml:id="subtitle126">[whistling]</p>
+<p begin="9517007500t" end="9538278750t" region="region.after" style="defaultStyle" xml:id="subtitle127">[slurping]</p>
+<p begin="9591248332t" end="9613770832t" region="region.after" style="defaultStyle" xml:id="subtitle128">[laughing]</p>
+<p begin="9990397082t" end="10003326666t" region="region.after" style="defaultStyle" xml:id="subtitle129">[giggles]</p>
+<p begin="10040030000t" end="10055879166t" region="region.after" style="defaultStyle" xml:id="subtitle130">[gurgles]</p>
+<p begin="10076733332t" end="10092999582t" region="region.after" style="defaultStyle" xml:id="subtitle131">[cooing]</p>
+<p begin="10193099582t" end="10208531666t" region="region.after" style="defaultStyle" xml:id="subtitle132">[gurgling]</p>
+<p begin="10274013750t" end="10294867916t" region="region.after" style="defaultStyle" xml:id="subtitle133">[gurgling]</p>
+<p begin="10342832500t" end="10358264582t" region="region.after" style="defaultStyle" xml:id="subtitle134">[laughing]</p>
+<p begin="10496319166t" end="10506329166t" region="region.after" style="defaultStyle" xml:id="subtitle135">[gurgling]</p>
+<p begin="10529268750t" end="10542198332t" region="region.after" style="defaultStyle" xml:id="subtitle136">[cooing]</p>
+<p begin="10705277916t" end="10717790416t" region="region.after" style="defaultStyle" xml:id="subtitle137">[gurgles]</p>
+<p begin="10783272500t" end="10800790000t" region="region.after" style="defaultStyle" xml:id="subtitle138">[laughing]</p>
+<p begin="10885040832t" end="10897553332t" region="region.after" style="defaultStyle" xml:id="subtitle139">[giggles]</p>
+<p begin="10912985416t" end="10940512916t" region="region.after" style="defaultStyle" xml:id="subtitle140">[rapid gurgling]</p>
+<p begin="11019341666t" end="11036859166t" region="region.after" style="defaultStyle" xml:id="subtitle141">[beeping and clicking]</p>
+<p begin="11073562500t" end="11103592500t" region="region.after" style="defaultStyle" xml:id="subtitle142">[alarms blaring]</p>
+<p begin="11141130000t" end="11161150000t" region="region.after" style="defaultStyle" xml:id="subtitle143">[gurgling and cooing]</p>
+<p begin="11223712500t" end="11235390832t" region="region.after" style="defaultStyle" xml:id="subtitle144">[gurgling]</p>
+<p begin="11299204582t" end="11312134166t" region="region.after" style="defaultStyle" xml:id="subtitle145">[rumbling]</p>
+<p begin="11439344582t" end="11453942500t" region="region.after" style="defaultStyle" xml:id="subtitle146">[gurgling]</p>
+<p begin="11476465000t" end="11497736250t" region="region.after" style="defaultStyle" xml:id="subtitle147">-[alarm blaring]<br/>-[gurgling]</p>
+<p begin="11743398332t" end="11763418332t" region="region.after" style="defaultStyle" xml:id="subtitle148">[grunting and gurgling]</p>
+<p begin="12089994582t" end="12116270832t" region="region.after" style="defaultStyle" xml:id="subtitle149">[gurgling]</p>
+<p begin="12189677500t" end="12204692500t" region="region.after" style="defaultStyle" xml:id="subtitle150">[knocking]</p>
+<p begin="12337325000t" end="12349003332t" region="region.after" style="defaultStyle" xml:id="subtitle151">[gurgles]</p>
+<p begin="12363601250t" end="12375696666t" region="region.after" style="defaultStyle" xml:id="subtitle152">[cooing]</p>
+<p begin="12497902082t" end="12510831666t" region="region.after" style="defaultStyle" xml:id="subtitle153">[clanging]</p>
+<p begin="12511665832t" end="12536690832t" region="region.after" style="defaultStyle" xml:id="subtitle154">[gurgling]</p>
+<p begin="12646800832t" end="12658062082t" region="region.after" style="defaultStyle" xml:id="subtitle155">[gurgling]</p>
+<p begin="12708529166t" end="12723961250t" region="region.after" style="defaultStyle" xml:id="subtitle156">[gurgling]</p>
+<p begin="13119773332t" end="13158562082t" region="region.after" style="defaultStyle" xml:id="subtitle157">[instrumental music on radio]</p>
+<p begin="13628614999t" end="13636956666t" region="region.after" style="defaultStyle" xml:id="subtitle158">[grumbles]</p>
+<p begin="13669906249t" end="13684921249t" region="region.after" style="defaultStyle" xml:id="subtitle159">[grumbling]</p>
+<p begin="13754157082t" end="13776679582t" region="region.after" style="defaultStyle" xml:id="subtitle160">[gurgling]</p>
+<p begin="13899719166t" end="13923909999t" region="region.after" style="defaultStyle" xml:id="subtitle161">[gurgling]</p>
+<p begin="13957693749t" end="13983552916t" region="region.after" style="defaultStyle" xml:id="subtitle162">[gurgling]</p>
+<p begin="14234219999t" end="14265918332t" region="region.after" style="defaultStyle" xml:id="subtitle163">[piano jazz playing]</p>
+<p begin="14300119166t" end="14330149166t" region="region.after" style="defaultStyle" xml:id="subtitle164">[chittering and clicking]</p>
+<p begin="14416068332t" end="14441510416t" region="region.after" style="defaultStyle" xml:id="subtitle165">[laughing]</p>
+<p begin="14629614999t" end="14647132499t" region="region.after" style="defaultStyle" xml:id="subtitle166">[thumping]</p>
+<p begin="14870689166t" end="14904889999t" region="region.after" style="defaultStyle" xml:id="subtitle167">-Hey, move it, buddy.<br/>-[speaker clicks]</p>
+<p begin="14905724166t" end="14923241666t" region="region.after" style="defaultStyle" xml:id="subtitle168">-[clicks]<br/>-What are you, deaf?</p>
+<p begin="14959110832t" end="14982884582t" region="region.after" style="defaultStyle" xml:id="subtitle169">-[speaker clicks]<br/>-Oh, you have got to be kidding--</p>
+<p begin="14983718749t" end="15023758749t" region="region.after" style="defaultStyle" xml:id="subtitle170"><span style="defaultStyle_1">♪ You'll find me ♪</span></p>
+<p begin="15024592916t" end="15072557499t" region="region.after" style="defaultStyle" xml:id="subtitle171"><span style="defaultStyle_1">♪ In a sea of dreams ♪</span></p>
+<p begin="15073391666t" end="15141793332t" region="region.after" style="defaultStyle" xml:id="subtitle172"><span style="defaultStyle_1">♪ Where no one cares about my words ♪</span></p>
+<p begin="15173491666t" end="15221456249t" region="region.after" style="defaultStyle" xml:id="subtitle173"><span style="defaultStyle_1">♪ I hear her voice ♪</span></p>
+<p begin="15223958749t" end="15263164582t" region="region.after" style="defaultStyle" xml:id="subtitle174"><span style="defaultStyle_1">♪ She laughs now ♪</span></p>
+<p begin="15263998749t" end="15334068749t" region="region.after" style="defaultStyle" xml:id="subtitle175"><span style="defaultStyle_1">♪ She loves me now</span><br/><span style="defaultStyle_1">And always did ♪</span></p>
+<p begin="15430832082t" end="15470037916t" region="region.after" style="defaultStyle" xml:id="subtitle176"><span style="defaultStyle_1">Boxer versus Raptor,</span><br/><span style="defaultStyle_1">♪ Na-na na-na na-na na-na ♪</span></p>
+</div>
+</body>
+</tt>

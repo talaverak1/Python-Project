@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="italic"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+<region tts:backgroundColor="transparent" tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="top"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="56306250t" end="89255834t" region="bottom" xml:id="subtitle0"><span style="span">[wind blowing]</span></p>
+<p begin="112195417t" end="136803334t" region="bottom" xml:id="subtitle1"><span style="span">[shuddering]</span></p>
+<p begin="152235417t" end="173506667t" region="bottom" xml:id="subtitle2"><span style="span">-[vehicle approaching]</span><br/><span style="span">-[grunting]</span></p>
+<p begin="178094584t" end="200617084t" region="bottom" xml:id="subtitle3"><span style="span">-[panting]</span><br/><span style="span">-[tires screech]</span></p>
+<p begin="201451250t" end="222305417t" region="bottom" xml:id="subtitle4"><span style="span">Yes, yes, I see you. Get in. Get in.</span></p>
+<p begin="252752500t" end="283199584t" region="bottom" xml:id="subtitle5"><span style="span">[music playing over radio]</span></p>
+<p begin="284033750t" end="307390417t" region="bottom" xml:id="subtitle6"><span style="span">Your mother's having another one</span><br/><span style="span">of her episodes.</span></p>
+<p begin="308224584t" end="324907917t" region="bottom" xml:id="subtitle7"><span style="span">Last night, she went to see </span><span style="italic">A Doll's House</span></p>
+<p begin="325742084t" end="350767084t" region="bottom" xml:id="subtitle8"><span style="span">with a couple girlfriends,</span><br/><span style="span">and now she has ideas.</span></p>
+<p begin="351601250t" end="369118750t" region="bottom" xml:id="subtitle9"><span style="span">I emerged from my sanctum, this afternoon,</span></p>
+<p begin="369952917t" end="393726667t" region="bottom" xml:id="subtitle10"><span style="span">to discover that not only had she</span><br/><span style="span">not made me lunch,</span></p>
+<p begin="394560834t" end="415415000t" region="bottom" xml:id="subtitle11"><span style="span">which is a meal I need in order to live,</span></p>
+<p begin="416249167t" end="456289167t" region="bottom" xml:id="subtitle12"><span style="span">but she'd furthermore, locked herself</span><br/><span style="span">in the bedroom to weep... loudly.</span></p>
+<p begin="458374584t" end="475892084t" region="bottom" xml:id="subtitle13"><span style="span">Now, it's one thing for a woman to weep,</span></p>
+<p begin="476726250t" end="503836667t" region="bottom" xml:id="subtitle14"><span style="span">but when they do it at such a volume</span><br/><span style="span">you can hear it through the door,</span></p>
+<p begin="504670834t" end="526776250t" region="bottom" xml:id="subtitle15"><span style="span">then you know they're doing it</span><br/><span style="span">just for the attention.</span></p>
+<p begin="530112917t" end="564313750t" region="bottom" xml:id="subtitle16"><span style="span">Anyway, I was able to cobble together</span><br/><span style="span">a sandwich for myself,</span></p>
+<p begin="565147917t" end="591841250t" region="bottom" xml:id="subtitle17"><span style="span">so, I'm the real hero of the story.</span></p>
+<p begin="592675417t" end="609775834t" region="bottom" xml:id="subtitle18"><span style="span">-[horn honking]</span><br/><span style="span">-[tires screeching]</span></p>
+<p begin="625207917t" end="638971667t" region="bottom" xml:id="subtitle19"><span style="span">It was a couple hours later</span></p>
+<p begin="639805834t" end="662745417t" region="bottom" xml:id="subtitle20"><span style="span">when I realized I was on a good run</span><br/><span style="span">with my novel.</span></p>
+<p begin="663579584t" end="698197500t" region="bottom" xml:id="subtitle21"><span style="span">I had this really interesting sentence</span><br/><span style="span">that kept going for pages and pages,</span></p>
+<p begin="699031667t" end="729478750t" region="bottom" xml:id="subtitle22"><span style="span">and I thought about how rare it is</span><br/><span style="span">to really get in the groove like that.</span></p>
+<p begin="730312917t" end="750750000t" region="bottom" xml:id="subtitle23"><span style="span">How, most days, I can't concentrate</span></p>
+<p begin="751584167t" end="779945834t" region="bottom" xml:id="subtitle24"><span style="span">because my idiot child</span><br/><span style="span">is blasting the television,</span></p>
+<p begin="780780000t" end="804136667t" region="bottom" xml:id="subtitle25"><span style="span">and it suddenly dawned on me;</span><br/><span style="span">hot cock on a rock,</span></p>
+<p begin="804970834t" end="836669167t" region="bottom" xml:id="subtitle26"><span style="span">she never even picked up</span><br/><span style="span">the little noise and snot factory!</span></p>
+<p begin="837503334t" end="857523334t" region="bottom" xml:id="subtitle27"><span style="span">[tires screech, horn honking]</span></p>
+<p begin="867950417t" end="897980417t" region="bottom" xml:id="subtitle28"><span style="span">So, here I am, being your mother,</span></p>
+<p begin="898814584t" end="935100834t" region="bottom" xml:id="subtitle29"><span style="span">which I know is giving you all sorts</span><br/><span style="span">of mixed-up ideas about gender,</span></p>
+<p begin="935935000t" end="955955000t" region="bottom" xml:id="subtitle30"><span style="span">while your brain</span><br/><span style="span">is still loose and stupid.</span></p>
+<p begin="957206250t" end="966799167t" region="bottom" xml:id="subtitle31"><span style="span">Just remember,</span></p>
+<p begin="967633334t" end="998914584t" region="bottom" xml:id="subtitle32"><span style="span">if you become a queer later in life,</span><br/><span style="span">this isn't my fault!</span></p>
+<p begin="999748750t" end="1036452084t" region="bottom" xml:id="subtitle33"><span style="span">Don't you sing no songs in your nightclub</span><br/><span style="span">act called, "My Daddy was My Mommy,"</span></p>
+<p begin="1037286250t" end="1066899167t" region="bottom" xml:id="subtitle34"><span style="span">while gazing longingly</span><br/><span style="span">at a tangled string of pearls.</span></p>
+<p begin="1067733334t" end="1086085000t" region="bottom" xml:id="subtitle35"><span style="span">Pearls are for ladies, BoJack.</span></p>
+<p begin="1092341250t" end="1118617500t" region="bottom" xml:id="subtitle36"><span style="span">Pearls are for ladies.</span></p>
+<p begin="1129044584t" end="1146979167t" region="bottom" xml:id="subtitle37"><span style="span">You know Sunday is my writing day.</span></p>
+<p begin="1147813334t" end="1179511667t" region="bottom" xml:id="subtitle38"><span style="span">Sundays are the one day</span><br/><span style="span">that are just for me and my craft,</span></p>
+<p begin="1180345834t" end="1203702500t" region="bottom" xml:id="subtitle39"><span style="span">and still, you and the black hole</span><br/><span style="span">that birthed you</span></p>
+<p begin="1204536667t" end="1219968750t" region="bottom" xml:id="subtitle40"><span style="span">conspire to ruin it for me.</span></p>
+<p begin="1220802917t" end="1244993750t" region="bottom" xml:id="subtitle41"><span style="span">What am I supposed to do now?</span><br/><span style="span">Just go back to writing?</span></p>
+<p begin="1245827917t" end="1270435834t" region="bottom" xml:id="subtitle42"><span style="span">I'm out of the zone now,</span><br/><span style="span">the whole day's shot!</span></p>
+<p begin="1271270000t" end="1293792500t" region="bottom" xml:id="subtitle43"><span style="span">All because of you</span><br/><span style="span">and that brittle wisp of a woman</span></p>
+<p begin="1294626667t" end="1312978334t" region="bottom" xml:id="subtitle44"><span style="span">you made the mistake</span><br/><span style="span">of making your mother.</span></p>
+<p begin="1333415417t" end="1357189167t" region="bottom" xml:id="subtitle45"><span style="span">[sighs] No. It's not her fault.</span></p>
+<p begin="1358023334t" end="1377626250t" region="bottom" xml:id="subtitle46"><span style="span">She's doing the best she can, after all.</span></p>
+<p begin="1378460417t" end="1403485417t" region="bottom" xml:id="subtitle47"><span style="span">It's just that...</span><br/><span style="span">you can't depend on women.</span></p>
+<p begin="1404319584t" end="1421002917t" region="bottom" xml:id="subtitle48"><span style="span">You can't depend on anyone.</span></p>
+<p begin="1421837084t" end="1435183750t" region="bottom" xml:id="subtitle49"><span style="span">Sooner or later, you need to learn</span></p>
+<p begin="1436017917t" end="1456455000t" region="bottom" xml:id="subtitle50"><span style="span">that no one else</span><br/><span style="span">is gonna take care of you.</span></p>
+<p begin="1458957500t" end="1485233750t" region="bottom" xml:id="subtitle51"><span style="span">That's what I learned</span><br/><span style="span">when I had to make my own sandwich.</span></p>
+<p begin="1486067917t" end="1505253750t" region="bottom" xml:id="subtitle52"><span style="span">You can't rely on other people, BoJack.</span></p>
+<p begin="1506087917t" end="1522354167t" region="bottom" xml:id="subtitle53"><span style="span">It's good for you to know that.</span></p>
+<p begin="1523188334t" end="1545293750t" region="bottom" xml:id="subtitle54"><span style="span">And she's a good mother</span><br/><span style="span">for teaching you that.</span></p>
+<p begin="1546127917t" end="1564479584t" region="bottom" xml:id="subtitle55"><span style="span">You've got a head start on most kids.</span></p>
+<p begin="1570735834t" end="1589921667t" region="bottom" xml:id="subtitle56"><span style="span">You're actually very lucky.</span></p>
+<p begin="1590755834t" end="1616615000t" region="bottom" xml:id="subtitle57"><span style="span">[music continues over radio]</span></p>
+<p begin="1636217917t" end="1662494167t" region="bottom" xml:id="subtitle58"><span style="italic">Thaaaaank youuuuu?</span></p>
+<p begin="1663745417t" end="1683765417t" region="bottom" xml:id="subtitle59"><span style="span">[theme music playing]</span></p>
+<p begin="2219717500t" end="2244325417t" region="bottom" xml:id="subtitle60"><span style="span">So, I stopped at a Jack in the Box,</span><br/><span style="span">on the way here,</span></p>
+<p begin="2245159584t" end="2286450834t" region="bottom" xml:id="subtitle61"><span style="span">and the girl behind the counter said,</span><br/><span style="span">"Hiya! Are you having an awesome day?"</span></p>
+<p begin="2287285000t" end="2327325000t" region="bottom" xml:id="subtitle62"><span style="span">Not, "How are you doing today?"</span><br/><span style="span">No. "Are you having an awesome day?"</span></p>
+<p begin="2328159167t" end="2363194167t" region="bottom" xml:id="subtitle63"><span style="span">Which is pretty shitty because it puts</span><br/><span style="span">the onus on me to disagree with her,</span></p>
+<p begin="2364028334t" end="2406153750t" region="bottom" xml:id="subtitle64"><span style="span">like if I'm not having an "awesome day,"</span><br/><span style="span">suddenly I'm the negative one.</span></p>
+<p begin="2406987917t" end="2439520417t" region="bottom" xml:id="subtitle65"><span style="span">Usually, when people ask how I'm doing,</span><br/><span style="span">the real answer is I'm doing shitty,</span></p>
+<p begin="2440354584t" end="2452867084t" region="bottom" xml:id="subtitle66"><span style="span">but I can't say I'm doing shitty</span></p>
+<p begin="2453701250t" end="2474138334t" region="bottom" xml:id="subtitle67"><span style="span">because I don't have a good reason</span><br/><span style="span">to be doing shitty.</span></p>
+<p begin="2474972500t" end="2508756250t" region="bottom" xml:id="subtitle68"><span style="span">So if I say, "I'm doing shitty,"</span><br/><span style="span">then they say, "Why? What's wrong?"</span></p>
+<p begin="2509590417t" end="2536283750t" region="bottom" xml:id="subtitle69"><span style="span">And I have to be like,</span><br/><span style="span">"I don't know, all of it?"</span></p>
+<p begin="2537117917t" end="2585916667t" region="bottom" xml:id="subtitle70"><span style="span">So instead, when people ask how I'm doing,</span><br/><span style="span">I usually say, "I am doing so great."</span></p>
+<p begin="2586750834t" end="2620534584t" region="bottom" xml:id="subtitle71"><span style="span">But when this girl at the Jack in the Box</span><br/><span style="span">asked me if I was having an awesome day,</span></p>
+<p begin="2621368750t" end="2648062084t" region="bottom" xml:id="subtitle72"><span style="span">I thought, well, today</span><br/><span style="span">I'm actually allowed to feel shitty,</span></p>
+<p begin="2648896250t" end="2685182500t" region="bottom" xml:id="subtitle73"><span style="span">today I have a good reason,</span><br/><span style="span">so I said to her, "Well, my mom died."</span></p>
+<p begin="2686016667t" end="2708956250t" region="bottom" xml:id="subtitle74"><span style="span">And she immediately burst into tears.</span></p>
+<p begin="2709790417t" end="2737317917t" region="bottom" xml:id="subtitle75"><span style="span">So, now I have to comfort her,</span><br/><span style="span">which is annoying,</span></p>
+<p begin="2738152084t" end="2761091667t" region="bottom" xml:id="subtitle76"><span style="span">and meanwhile, there's a line</span><br/><span style="span">of people forming behind me,</span></p>
+<p begin="2761925834t" end="2780277500t" region="bottom" xml:id="subtitle77"><span style="span">who are all giving me</span><br/><span style="span">these real judgy looks</span></p>
+<p begin="2781111667t" end="2797795000t" region="bottom" xml:id="subtitle78"><span style="span">because I made</span><br/><span style="span">the Jack in the Box girl cry.</span></p>
+<p begin="2798629167t" end="2825322500t" region="bottom" xml:id="subtitle79"><span style="span">And she's bawling, and she's saying,</span><br/><span style="span">"I'm sorry, I'm so sorry,"</span></p>
+<p begin="2826156667t" end="2843257084t" region="bottom" xml:id="subtitle80"><span style="span">and I'm like, "It's fine. It's fine.</span></p>
+<p begin="2844091250t" end="2877457917t" region="bottom" xml:id="subtitle81"><span style="span">I mean, it's not fine,</span><br/><span style="span">but, you know, it's... fine.</span></p>
+<p begin="2878292084t" end="2899146250t" region="bottom" xml:id="subtitle82"><span style="span">And I would like to order</span><br/><span style="span">a Double Jack Meal,</span></p>
+<p begin="2899980417t" end="2914161250t" region="bottom" xml:id="subtitle83"><span style="span">and I've kinda got somewhere to be,</span></p>
+<p begin="2914995417t" end="2940854584t" region="bottom" xml:id="subtitle84"><span style="span">so maybe less with the crying</span><br/><span style="span">and more with the frying, huh?"</span></p>
+<p begin="2941688750t" end="2968799167t" region="bottom" xml:id="subtitle85"><span style="span">[inhales] And the girl apologizes, again,</span></p>
+<p begin="2969633334t" end="2992155834t" region="bottom" xml:id="subtitle86"><span style="span">and she offers me a free churro</span><br/><span style="span">with my meal.</span></p>
+<p begin="2992990000t" end="3026356667t" region="bottom" xml:id="subtitle87"><span style="span">And as I'm leaving,</span><br/><span style="span">I think, "I just got a free churro</span></p>
+<p begin="3027190834t" end="3043457084t" region="bottom" xml:id="subtitle88"><span style="span">because my mom died."</span></p>
+<p begin="3044291250t" end="3075989584t" region="bottom" xml:id="subtitle89"><span style="span">No one ever tells you when your mom dies,</span><br/><span style="span">you get a free churro.</span></p>
+<p begin="3076823750t" end="3099346250t" region="bottom" xml:id="subtitle90"><span style="span">[people murmuring]</span></p>
+<p begin="3108522084t" end="3126039584t" region="bottom" xml:id="subtitle91"><span style="span">[clears throat] Anyway, I'm sorry,</span></p>
+<p begin="3126873750t" end="3147310834t" region="bottom" xml:id="subtitle92"><span style="span">that's not part of the...</span><br/><span style="span">[clears throat] All right.</span></p>
+<p begin="3148145000t" end="3161908750t" region="bottom" xml:id="subtitle93"><span style="span">Okay, here we go. Let's do this.</span></p>
+<p begin="3162742917t" end="3197360834t" region="bottom" xml:id="subtitle94"><span style="span">Here I am, BoJack Horseman,</span><br/><span style="span">doing a eulogy, let's go.</span></p>
+<p begin="3198195000t" end="3224054167t" region="top" xml:id="subtitle95"><span style="span">Hey, piano man,</span><br/><span style="span">can I get like a, like an organ flourish?</span></p>
+<p begin="3224888334t" end="3240320417t" region="top" xml:id="subtitle96"><span style="span">[organ plays]</span></p>
+<p begin="3241154584t" end="3261174584t" region="top" xml:id="subtitle97"><span style="span">Nicely done.</span><br/><span style="span">You know, I was a little worried</span></p>
+<p begin="3262008750t" end="3279943334t" region="bottom" xml:id="subtitle98"><span style="span">I wouldn't have the right</span><br/><span style="span">accompaniment today.</span></p>
+<p begin="3282028750t" end="3308305000t" region="top" xml:id="subtitle99"><span style="span">I guess it's a good thing my mom</span><br/><span style="span">was an organ donor!</span></p>
+<p begin="3309139167t" end="3323320000t" region="top" xml:id="subtitle100"><span style="span">[rimshot plays]</span></p>
+<p begin="3324154167t" end="3342922917t" region="top" xml:id="subtitle101"><span style="span">-What happened to the organ?</span><br/><span style="span">-[horn "oogahs"]</span></p>
+<p begin="3347927917t" end="3368782084t" region="bottom" xml:id="subtitle102"><span style="span">Why don't you leave</span><br/><span style="span">the comedy to the professionals?</span></p>
+<p begin="3369616250t" end="3387550834t" region="top" xml:id="subtitle103"><span style="span">Okay? This is a funeral, sir,</span><br/><span style="span">for my mother.</span></p>
+<p begin="3388385000t" end="3400063334t" region="top" xml:id="subtitle104"><span style="span">Can you show a little respect?</span></p>
+<p begin="3400897500t" end="3422168750t" region="bottom" xml:id="subtitle105"><span style="span">[trumpet whines]</span></p>
+<p begin="3423002917t" end="3431344584t" region="bottom" xml:id="subtitle106"><span style="span">I'll take it.</span></p>
+<p begin="3435932500t" end="3461374584t" region="top" xml:id="subtitle107"><span style="span">Beatrice Horseman, who was she?</span><br/><span style="span">What was her deal?</span></p>
+<p begin="3462208750t" end="3473887084t" region="bottom" xml:id="subtitle108"><span style="span">Well, she was a horse.</span></p>
+<p begin="3474721250t" end="3505585417t" region="top" xml:id="subtitle109"><span style="span">Uh, she was born in 1938.</span><br/><span style="span">She died in 2018.</span></p>
+<p begin="3506419584t" end="3519349167t" region="top" xml:id="subtitle110"><span style="span">One time, she went to a parade,</span></p>
+<p begin="3520183334t" end="3550213334t" region="top" xml:id="subtitle111"><span style="span">and one time, she smoked</span><br/><span style="span">an entire cigarette in one long inhale.</span></p>
+<p begin="3551047500t" end="3559806250t" region="bottom" xml:id="subtitle112"><span style="span">I watched her do it.</span></p>
+<p begin="3563560000t" end="3580660417t" region="top" xml:id="subtitle113"><span style="span">Truly a remarkable woman.</span></p>
+<p begin="3586916667t" end="3609439167t" region="top" xml:id="subtitle114"><span style="span">[rustling]</span></p>
+<p begin="3614444167t" end="3632795834t" region="top" xml:id="subtitle115"><span style="span">Lived a full life, that lady.</span></p>
+<p begin="3633630000t" end="3677840834t" region="top" xml:id="subtitle116"><span style="span">Just, all the way to the end,</span><br/><span style="span">which is, uh, now, I guess.</span></p>
+<p begin="3684931250t" end="3702865834t" region="top" xml:id="subtitle117"><span style="span">Really makes you think, though, huh?</span></p>
+<p begin="3703700000t" end="3747910834t" region="top" xml:id="subtitle118"><span style="span">Life, right? Goes by, stuff happens.</span><br/><span style="span">Then you die.</span></p>
+<p begin="3753332917t" end="3777523750t" region="top" xml:id="subtitle119"><span style="span">Well, that's my time,</span><br/><span style="span">you've been great! Tip your waitress!</span></p>
+<p begin="3778357917t" end="3797543750t" region="top" xml:id="subtitle120"><span style="span">No, I'm just kidding around,</span><br/><span style="span">there's no waitress.</span></p>
+<p begin="3798377917t" end="3817563750t" region="top" xml:id="subtitle121"><span style="span">That's all I have to say about my mother.</span></p>
+<p begin="3818397917t" end="3834664167t" region="top" xml:id="subtitle122"><span style="span">No point beating a dead horse, right?</span></p>
+<p begin="3838000834t" end="3880543334t" region="top" xml:id="subtitle123"><span style="span">So... [inhales] Now what?</span><br/><span style="span">I don't know, Mom, you got any ideas?</span></p>
+<p begin="3892221667t" end="3901814584t" region="bottom" xml:id="subtitle124"><span style="span">Anything?</span></p>
+<p begin="3905151250t" end="3914327084t" region="bottom" xml:id="subtitle125"><span style="span">Mom?</span></p>
+<p begin="3916829584t" end="3926005417t" region="bottom" xml:id="subtitle126"><span style="span">No?</span></p>
+<p begin="3929342084t" end="3957286667t" region="bottom" xml:id="subtitle127"><span style="span">Nothing to contribute?</span><br/><span style="span">Knock once if you're proud of me.</span></p>
+<p begin="3973970000t" end="4004417084t" region="top" xml:id="subtitle128"><span style="span">Can I just say how amazing it is</span><br/><span style="span">to be in a room with my mother,</span></p>
+<p begin="4005251250t" end="4039035000t" region="bottom" xml:id="subtitle129"><span style="span">and I can just talk without her telling me</span><br/><span style="span">to shut up and make her a drink?</span></p>
+<p begin="4040286250t" end="4061557500t" region="bottom" xml:id="subtitle130"><span style="span">Hey, Mom. Knock once</span><br/><span style="span">if you think I should shut up.</span></p>
+<p begin="4069482084t" end="4081994584t" region="bottom" xml:id="subtitle131"><span style="span">No? You sure?</span></p>
+<p begin="4084080000t" end="4120783334t" region="bottom" xml:id="subtitle132"><span style="span">I mean, I don't want to embarrass you,</span><br/><span style="span">by making this eulogy into a me-logy,</span></p>
+<p begin="4121617500t" end="4139552084t" region="bottom" xml:id="subtitle133"><span style="span">so, seriously,</span><br/><span style="span">if you wanted me to sit down</span></p>
+<p begin="4140386250t" end="4167496667t" region="bottom" xml:id="subtitle134"><span style="span">and let someone else talk, just knock.</span><br/><span style="span">I will not be offended.</span></p>
+<p begin="4174170000t" end="4191270417t" region="bottom" xml:id="subtitle135"><span style="span">No? Your funeral.</span></p>
+<p begin="4197109584t" end="4214210000t" region="bottom" xml:id="subtitle136"><span style="span">Sorry about the closed casket, by the way.</span></p>
+<p begin="4216295417t" end="4228807917t" region="bottom" xml:id="subtitle137"><span style="span">She wanted an open casket,</span></p>
+<p begin="4229642084t" end="4260089167t" region="bottom" xml:id="subtitle138"><span style="span">but, you know, she's dead now,</span><br/><span style="span">so who cares what she wanted?</span></p>
+<p begin="4260923334t" end="4275104167t" region="bottom" xml:id="subtitle139"><span style="span">No, that sounds bad. I'm sorry.</span></p>
+<p begin="4275938334t" end="4309305000t" region="bottom" xml:id="subtitle140"><span style="span">I think that if she could've seen</span><br/><span style="span">what she looked like dead,</span></p>
+<p begin="4310139167t" end="4338500834t" region="bottom" xml:id="subtitle141"><span style="span">she'd agree it's better this way.</span><br/><span style="span">She looked like this.</span></p>
+<p begin="4339335000t" end="4371450417t" region="bottom" xml:id="subtitle142"><span style="span">-[groaning]</span><br/><span style="span">-[mourners gasping]</span></p>
+<p begin="4372284584t" end="4410656250t" region="bottom" xml:id="subtitle143"><span style="span">Kinda like a pissed-off toy dinosaur.</span><br/><span style="span">The coroner couldn't get her eyes closed.</span></p>
+<p begin="4411490417t" end="4426088334t" region="bottom" xml:id="subtitle144"><span style="span">So, now her face is forever frozen</span></p>
+<p begin="4426922500t" end="4454032917t" region="bottom" xml:id="subtitle145"><span style="span">in a mask of tremendous horror</span><br/><span style="span">and anguish.</span></p>
+<p begin="4456952500t" end="4474052917t" region="bottom" xml:id="subtitle146"><span style="span">Or as my mom called it, Tuesday!</span></p>
+<p begin="4487399584t" end="4512841667t" region="bottom" xml:id="subtitle147"><span style="span">Tuesday! My mom called it Tuesday.</span></p>
+<p begin="4517429584t" end="4525771250t" region="bottom" xml:id="subtitle148"><span style="span">[woman coughs]</span></p>
+<p begin="4527856667t" end="4550379167t" region="bottom" xml:id="subtitle149"><span style="span">Hey, Mom, what did you think of that joke?</span><br/><span style="span">You like that?</span></p>
+<p begin="4551213334t" end="4560806250t" region="bottom" xml:id="subtitle150"><span style="span">[woman coughs]</span></p>
+<p begin="4561640417t" end="4579575000t" region="bottom" xml:id="subtitle151"><span style="span">You never did care for my comedy.</span></p>
+<p begin="4585831250t" end="4597509584t" region="bottom" xml:id="subtitle152"><span style="span">[clears throat]</span></p>
+<p begin="4598343750t" end="4610022084t" region="bottom" xml:id="subtitle153"><span style="span">Here's a story.</span></p>
+<p begin="4610856250t" end="4622117500t" region="bottom" xml:id="subtitle154"><span style="span">When I was a teenager,</span></p>
+<p begin="4622951667t" end="4660072084t" region="bottom" xml:id="subtitle155"><span style="span">I performed a comedy routine</span><br/><span style="span">for my high school talent show.</span></p>
+<p begin="4662157500t" end="4681343334t" region="bottom" xml:id="subtitle156"><span style="span">There was this cool jacket</span><br/><span style="span">that I wanted to wear</span></p>
+<p begin="4682177500t" end="4701780417t" region="bottom" xml:id="subtitle157"><span style="span">because it would make me</span><br/><span style="span">look like Albert Brooks.</span></p>
+<p begin="4702614584t" end="4722217500t" region="bottom" xml:id="subtitle158"><span style="span">For months, I saved up for this jacket,</span></p>
+<p begin="4723051667t" end="4756001250t" region="bottom" xml:id="subtitle159"><span style="span">but when I finally had enough,</span><br/><span style="span">I went to the store and it was gone.</span></p>
+<p begin="4756835417t" end="4787282500t" region="bottom" xml:id="subtitle160"><span style="span">They had just sold it to someone else.</span><br/><span style="span">So, I went home and I told my mother.</span></p>
+<p begin="4788116667t" end="4800629167t" region="bottom" xml:id="subtitle161"><span style="span">She said, "Let that be a lesson.</span></p>
+<p begin="4801463334t" end="4826905417t" region="bottom" xml:id="subtitle162"><span style="span">That's the good</span><br/><span style="span">that comes from wanting things."</span></p>
+<p begin="4827739584t" end="4847759584t" region="bottom" xml:id="subtitle163"><span style="span">She was really good</span><br/><span style="span">at dispensing life lessons,</span></p>
+<p begin="4848593750t" end="4876121250t" region="bottom" xml:id="subtitle164"><span style="span">that always seemed to circle back</span><br/><span style="span">to everything being my fault.</span></p>
+<p begin="4880292084t" end="4920749167t" region="bottom" xml:id="subtitle165"><span style="span">But then, on the day of the talent show,</span><br/><span style="span">my mother had a surprise for me.</span></p>
+<p begin="4921583334t" end="4937849584t" region="bottom" xml:id="subtitle166"><span style="span">She had bought me the jacket.</span></p>
+<p begin="4938683750t" end="4974552917t" region="bottom" xml:id="subtitle167"><span style="span">Even though she didn't know how to say it,</span><br/><span style="span">I knew this meant that she loved me.</span></p>
+<p begin="4981226250t" end="4999995000t" region="bottom" xml:id="subtitle168"><span style="span">Now, that's a good story about my mother.</span></p>
+<p begin="5000829167t" end="5027522500t" region="bottom" xml:id="subtitle169"><span style="span">It's not true,</span><br/><span style="span">but it's a good story, right?</span></p>
+<p begin="5028356667t" end="5051713334t" region="bottom" xml:id="subtitle170"><span style="span">I stole it from an episode of </span><span style="italic">Maude </span><span style="span">I saw</span><br/><span style="span">when i was a kid,</span></p>
+<p begin="5052547500t" end="5068813750t" region="bottom" xml:id="subtitle171"><span style="span">where she talks about her father.</span></p>
+<p begin="5069647917t" end="5097175417t" region="bottom" xml:id="subtitle172"><span style="span">I remember when I saw it,</span><br/><span style="span">thinking that's the kind of story</span></p>
+<p begin="5098009584t" end="5120949167t" region="bottom" xml:id="subtitle173"><span style="span">I want to tell</span><br/><span style="span">about my parents when they die.</span></p>
+<p begin="5122200417t" end="5141803334t" region="bottom" xml:id="subtitle174"><span style="span">But I don't have any stories like that.</span></p>
+<p begin="5144305834t" end="5173501667t" region="bottom" xml:id="subtitle175"><span style="span">All I know about being good</span><br/><span style="span">I learned from TV.</span></p>
+<p begin="5174335834t" end="5205617084t" region="bottom" xml:id="subtitle176"><span style="span">And in TV, flawed characters</span><br/><span style="span">are constantly showing people they care</span></p>
+<p begin="5206451250t" end="5222717500t" region="bottom" xml:id="subtitle177"><span style="span">with these surprising grand gestures.</span></p>
+<p begin="5223551667t" end="5259837917t" region="bottom" xml:id="subtitle178"><span style="span">And I think that part of me</span><br/><span style="span">still believes that's what love is.</span></p>
+<p begin="5261089167t" end="5289033750t" region="bottom" xml:id="subtitle179"><span style="span">But in real life,</span><br/><span style="span">the big gesture isn't enough.</span></p>
+<p begin="5289867917t" end="5316978334t" region="bottom" xml:id="subtitle180"><span style="span">You need to be consistent,</span><br/><span style="span">you need to be dependably good.</span></p>
+<p begin="5317812500t" end="5347008334t" region="bottom" xml:id="subtitle181"><span style="span">You can't just screw everything up,</span><br/><span style="span">and then take a boat out into the ocean</span></p>
+<p begin="5347842500t" end="5374535834t" region="bottom" xml:id="subtitle182"><span style="span">to save your best friend,</span><br/><span style="span">or solve a mystery, and fly to Kansas.</span></p>
+<p begin="5375370000t" end="5412490417t" region="bottom" xml:id="subtitle183"><span style="span">You need to do it every day,</span><br/><span style="span">which is so... hard.</span></p>
+<p begin="5419997917t" end="5440435000t" region="bottom" xml:id="subtitle184"><span style="span">When you're a kid, you convince yourself</span></p>
+<p begin="5441269167t" end="5463791667t" region="bottom" xml:id="subtitle185"><span style="span">that maybe the grand gesture</span><br/><span style="span">could be enough.</span></p>
+<p begin="5464625834t" end="5490067917t" region="bottom" xml:id="subtitle186"><span style="span">That even though your parents</span><br/><span style="span">aren't what you need them to be,</span></p>
+<p begin="5490902084t" end="5510922084t" region="bottom" xml:id="subtitle187"><span style="span">over and over and over again,</span></p>
+<p begin="5511756250t" end="5552213334t" region="bottom" xml:id="subtitle188"><span style="span">at any moment they might surprise you,</span><br/><span style="span">with something... wonderful.</span></p>
+<p begin="5557218334t" end="5572650417t" region="bottom" xml:id="subtitle189"><span style="span">I kept waiting for that, the proof,</span></p>
+<p begin="5573484584t" end="5596841250t" region="bottom" xml:id="subtitle190"><span style="span">that even though my mother</span><br/><span style="span">was a hard woman,</span></p>
+<p begin="5597675417t" end="5625202917t" region="bottom" xml:id="subtitle191"><span style="span">deep down, she loved me</span><br/><span style="span">and cared about me</span></p>
+<p begin="5626037084t" end="5641052084t" region="bottom" xml:id="subtitle192"><span style="span">and wanted me to know</span></p>
+<p begin="5641886250t" end="5664408750t" region="bottom" xml:id="subtitle193"><span style="span">that I made her life</span><br/><span style="span">a little bit brighter.</span></p>
+<p begin="5669413750t" end="5692770417t" region="bottom" xml:id="subtitle194"><span style="span">Even now, I find myself waiting.</span></p>
+<p begin="5702780417t" end="5727805417t" region="bottom" xml:id="subtitle195"><span style="span">Hey, Mom, knock once if you love me</span><br/><span style="span">and care about me,</span></p>
+<p begin="5728639584t" end="5752830417t" region="bottom" xml:id="subtitle196"><span style="span">and want me to know I made your life</span><br/><span style="span">a little bit brighter.</span></p>
+<p begin="5754915834t" end="5772850417t" region="bottom" xml:id="subtitle197"><span style="span">[owl chirping]</span></p>
+<p begin="5780357917t" end="5809970834t" region="bottom" xml:id="subtitle198"><span style="span">My mother did not go </span><span style="italic">gentle</span><br/><span style="span">into that good night.</span></p>
+<p begin="5810805000t" end="5849593750t" region="bottom" xml:id="subtitle199"><span style="span">She went clawing and fighting</span><br/><span style="span">and thrashing, hence the face.</span></p>
+<p begin="5850427917t" end="5867945417t" region="bottom" xml:id="subtitle200"><span style="span">-[groaning]</span><br/><span style="span">-[mourners gasping]</span></p>
+<p begin="5873784584t" end="5882126250t" region="bottom" xml:id="subtitle201"><span style="span">If you'd seen her,</span></p>
+<p begin="5882960417t" end="5907151250t" region="bottom" xml:id="subtitle202"><span style="span">I swear to God the only thing</span><br/><span style="span">you'd be thinking about right now</span></p>
+<p begin="5907985417t" end="5933010417t" region="bottom" xml:id="subtitle203"><span style="span">is that I am nailing this impression.</span></p>
+<p begin="5933844584t" end="5952613334t" region="bottom" xml:id="subtitle204"><span style="span">-[woman clears her throat]</span><br/><span style="span">-[chairs squeak]</span></p>
+<p begin="5953447500t" end="5976387084t" region="bottom" xml:id="subtitle205"><span style="span">I was in the hospital with her</span><br/><span style="span">those last moments,</span></p>
+<p begin="5977221250t" end="6016844167t" region="bottom" xml:id="subtitle206"><span style="span">and they were truly horrifying,</span><br/><span style="span">full of nonsensical screams and cries,</span></p>
+<p begin="6017678334t" end="6051879167t" region="bottom" xml:id="subtitle207"><span style="span">but there was this moment,</span><br/><span style="span">this one instant of strange calm,</span></p>
+<p begin="6052713334t" end="6085662917t" region="bottom" xml:id="subtitle208"><span style="span">where she looked in my direction</span><br/><span style="span">and said, "I see you."</span></p>
+<p begin="6094004584t" end="6120697917t" region="bottom" xml:id="subtitle209"><span style="span">That's the last thing she said to me.</span><br/><span style="span">"I see you."</span></p>
+<p begin="6121532084t" end="6160320834t" region="bottom" xml:id="subtitle210"><span style="span">Not a statement of judgment</span><br/><span style="span">or disappointment, just acceptance</span></p>
+<p begin="6161155000t" end="6192436250t" region="bottom" xml:id="subtitle211"><span style="span">and the simple recognition</span><br/><span style="span">of another person in a room.</span></p>
+<p begin="6197024167t" end="6227054167t" region="bottom" xml:id="subtitle212"><span style="span">"Hello, there. You are a person.</span><br/><span style="span">And I see you."</span></p>
+<p begin="6238732500t" end="6250410834t" region="bottom" xml:id="subtitle213"><span style="span">Let me tell you,</span></p>
+<p begin="6251245000t" end="6270013750t" region="bottom" xml:id="subtitle214"><span style="span">it's a weird thing to feel</span><br/><span style="span">at 54 years old,</span></p>
+<p begin="6270847917t" end="6297541250t" region="bottom" xml:id="subtitle215"><span style="span">that for the first time in your life</span><br/><span style="span">your mother sees you.</span></p>
+<p begin="6298375417t" end="6322983334t" region="bottom" xml:id="subtitle216"><span style="span">It's an odd realization that it's</span><br/><span style="span">the thing you've been missing,</span></p>
+<p begin="6323817500t" end="6350927917t" region="bottom" xml:id="subtitle217"><span style="span">the only thing you wanted all along,</span><br/><span style="span">to be seen.</span></p>
+<p begin="6351762084t" end="6375118750t" region="bottom" xml:id="subtitle218"><span style="span">And it doesn't feel like a relief,</span><br/><span style="span">to finally be seen.</span></p>
+<p begin="6375952917t" end="6395555834t" region="bottom" xml:id="subtitle219"><span style="span">It feels mean, like,</span></p>
+<p begin="6399309584t" end="6418912500t" region="bottom" xml:id="subtitle220"><span style="span">"Oh, it turns out that you knew</span><br/><span style="span">what I wanted,</span></p>
+<p begin="6419746667t" end="6447274167t" region="bottom" xml:id="subtitle221"><span style="span">and you waited until the very last moment</span><br/><span style="span">to give it to me."</span></p>
+<p begin="6448108334t" end="6463123334t" region="bottom" xml:id="subtitle222"><span style="span">I was prepared for more cruelty.</span></p>
+<p begin="6463957500t" end="6486897084t" region="bottom" xml:id="subtitle223"><span style="span">I was sure that she would get</span><br/><span style="span">in one final zinger,</span></p>
+<p begin="6487731250t" end="6520263750t" region="bottom" xml:id="subtitle224"><span style="span">about how I let her down,</span><br/><span style="span">and about how I was fat and stupid,</span></p>
+<p begin="6521097917t" end="6547791250t" region="bottom" xml:id="subtitle225"><span style="span">and too tall to be</span><br/><span style="span">an effective Lindy-hopper.</span></p>
+<p begin="6549042500t" end="6581575000t" region="bottom" xml:id="subtitle226"><span style="span">How I was needy and a burden</span><br/><span style="span">and an embarrassment.</span></p>
+<p begin="6582409167t" end="6624534584t" region="bottom" xml:id="subtitle227"><span style="span">All that I was ready for.</span><br/><span style="span">I was not ready for "I see you."</span></p>
+<p begin="6635378750t" end="6658735417t" region="bottom" xml:id="subtitle228"><span style="span">Only my mother would be lousy enough</span><br/><span style="span">to swipe me</span></p>
+<p begin="6659569584t" end="6681257917t" region="bottom" xml:id="subtitle229"><span style="span">with a moment of connection</span><br/><span style="span">on her way out.</span></p>
+<p begin="6688765417t" end="6722132084t" region="bottom" xml:id="subtitle230"><span style="span">But maybe I'm giving her too much credit.</span><br/><span style="span">Maybe it wasn't about connection.</span></p>
+<p begin="6722966250t" end="6778021250t" region="bottom" xml:id="subtitle231"><span style="span">Maybe it was a... Maybe it was</span><br/><span style="span">an "I see you," like, "I see you."</span></p>
+<p begin="6778855417t" end="6798458334t" region="bottom" xml:id="subtitle232"><span style="span">Like, "You might have the rest</span><br/><span style="span">of the world fooled,</span></p>
+<p begin="6799292500t" end="6816810000t" region="bottom" xml:id="subtitle233"><span style="span">but I know exactly who you are."</span></p>
+<p begin="6817644167t" end="6832242084t" region="bottom" xml:id="subtitle234"><span style="span">That's more my mom's speed.</span></p>
+<p begin="6840166667t" end="6875618750t" region="bottom" xml:id="subtitle235"><span style="span">Or maybe she just literally meant</span><br/><span style="span">"I see you.</span></p>
+<p begin="6876452917t" end="6906065834t" region="bottom" xml:id="subtitle236"><span style="span">You are an object</span><br/><span style="span">that has entered my field of vision."</span></p>
+<p begin="6910653750t" end="6931925000t" region="bottom" xml:id="subtitle237"><span style="span">She was out of it at the end,</span><br/><span style="span">so maybe it's dumb</span></p>
+<p begin="6932759167t" end="6949859584t" region="bottom" xml:id="subtitle238"><span style="span">to try to attribute it to anything.</span></p>
+<p begin="6950693750t" end="6969045417t" region="bottom" xml:id="subtitle239"><span style="span">-[woman sighs]</span><br/><span style="span">-Back in the 90s,</span></p>
+<p begin="6969879584t" end="6998241250t" region="bottom" xml:id="subtitle240"><span style="span">I was in a very famous TV Show</span><br/><span style="span">called </span><span style="italic">Horsin' Around.</span></p>
+<p begin="7002412084t" end="7025351667t" region="bottom" xml:id="subtitle241"><span style="span">-[man coughs]</span><br/><span style="span">-Please hold your applause.</span></p>
+<p begin="7027854167t" end="7049125417t" region="bottom" xml:id="subtitle242"><span style="span">And I remember one time, a fan asked me,</span></p>
+<p begin="7049959584t" end="7067477084t" region="bottom" xml:id="subtitle243"><span style="span">"Hey, um, you know that episode</span></p>
+<p begin="7068311250t" end="7087080000t" region="bottom" xml:id="subtitle244"><span style="span">where the horse has to give Ethan</span><br/><span style="span">a pep talk,</span></p>
+<p begin="7087914167t" end="7118361250t" region="bottom" xml:id="subtitle245"><span style="span">after Ethan finds out his crush</span><br/><span style="span">only asked him to the dance</span></p>
+<p begin="7119195417t" end="7145471667t" region="bottom" xml:id="subtitle246"><span style="span">because her friends were having</span><br/><span style="span">a dorkiest date contest?</span></p>
+<p begin="7146305834t" end="7162572084t" region="bottom" xml:id="subtitle247"><span style="span">In all the shots of the horse,</span></p>
+<p begin="7163406250t" end="7190099584t" region="bottom" xml:id="subtitle248"><span style="span">you can see a paper coffee cup</span><br/><span style="span">on the kitchen counter,</span></p>
+<p begin="7190933750t" end="7222632084t" region="bottom" xml:id="subtitle249"><span style="span">but in the shots of Ethan,</span><br/><span style="span">the coffee cup's missing.</span></p>
+<p begin="7223466250t" end="7246822917t" region="bottom" xml:id="subtitle250"><span style="span">Was that because the show</span><br/><span style="span">was making a statement,</span></p>
+<p begin="7247657084t" end="7270596667t" region="bottom" xml:id="subtitle251"><span style="span">about the fluctuant subjectivity of memory</span></p>
+<p begin="7271430834t" end="7301043750t" region="bottom" xml:id="subtitle252"><span style="span">and how even two people</span><br/><span style="span">can experience the same moment</span></p>
+<p begin="7301877917t" end="7323149167t" region="bottom" xml:id="subtitle253"><span style="span">in entirely different ways?</span></p>
+<p begin="7327320000t" end="7349425417t" region="bottom" xml:id="subtitle254"><span style="span">And I didn't have the heart to be, like,</span></p>
+<p begin="7350259584t" end="7395721667t" region="bottom" xml:id="subtitle255"><span style="span">"No, man, some crew guy</span><br/><span style="span">just left their coffee cup in the shot."</span></p>
+<p begin="7396555834t" end="7424500417t" region="bottom" xml:id="subtitle256"><span style="span">So instead, I was, like... "Yeah."</span></p>
+<p begin="7436178750t" end="7452862084t" region="bottom" xml:id="subtitle257"><span style="span">And maybe this is like that coffee cup.</span></p>
+<p begin="7453696250t" end="7494570417t" region="bottom" xml:id="subtitle258"><span style="span">Maybe, we're dumb to try to pin</span><br/><span style="span">significance onto every little thing.</span></p>
+<p begin="7495404584t" end="7536695834t" region="bottom" xml:id="subtitle259"><span style="span">Maybe, when someone says,</span><br/><span style="span">"I see you," it just means, "I see you."</span></p>
+<p begin="7548791250t" end="7570896667t" region="bottom" xml:id="subtitle260"><span style="span">Then again, it's possible</span><br/><span style="span">she wasn't even talking to me.</span></p>
+<p begin="7571730834t" end="7599675417t" region="bottom" xml:id="subtitle261"><span style="span">Because, if I'm being honest,</span><br/><span style="span">she wasn't really looking at me,</span></p>
+<p begin="7602595000t" end="7626785834t" region="bottom" xml:id="subtitle262"><span style="span">she was looking past me.</span><br/><span style="span">There was nobody else in the room.</span></p>
+<p begin="7627620000t" end="7645554584t" region="bottom" xml:id="subtitle263"><span style="span">I think she was talking to me,</span><br/><span style="span">but, honestly,</span></p>
+<p begin="7646388750t" end="7672665000t" region="bottom" xml:id="subtitle264"><span style="span">she was so far gone at that point,</span><br/><span style="span">who knows what she was seeing.</span></p>
+<p begin="7675167500t" end="7687680000t" region="bottom" xml:id="subtitle265"><span style="span">Who were you talking to, Mom?</span></p>
+<p begin="7698941250t" end="7707282917t" region="bottom" xml:id="subtitle266"><span style="span">[sighs]</span></p>
+<p begin="7708117084t" end="7731056667t" region="bottom" xml:id="subtitle267"><span style="span">Not saying, huh? Staying mum?</span></p>
+<p begin="7735644584t" end="7746488750t" region="bottom" xml:id="subtitle268"><span style="span">No rimshot there?</span></p>
+<p begin="7747322917t" end="7767342917t" region="bottom" xml:id="subtitle269"><span style="span">God, whatever I'm paying you,</span><br/><span style="span">it's too much.</span></p>
+<p begin="7776101667t" end="7791950834t" region="bottom" xml:id="subtitle270"><span style="span">Maybe, she saw my dad.</span></p>
+<p begin="7792785000t" end="7829488334t" region="bottom" xml:id="subtitle271"><span style="span">My dad died about ten years ago</span><br/><span style="span">of injuries he sustained during a duel.</span></p>
+<p begin="7832825000t" end="7859518334t" region="bottom" xml:id="subtitle272"><span style="span">When your father dies,</span><br/><span style="span">you ask yourself a lot of questions.</span></p>
+<p begin="7860352500t" end="7887880000t" region="bottom" xml:id="subtitle273"><span style="span">Questions like,</span><br/><span style="span">"Wait, did you say he died in a duel?"</span></p>
+<p begin="7888714167t" end="7909985417t" region="bottom" xml:id="subtitle274"><span style="span">and "Who dies in a duel?"</span></p>
+<p begin="7910819584t" end="7922915000t" region="bottom" xml:id="subtitle275"><span style="span">The whole thing was so stupid.</span></p>
+<p begin="7925834584t" end="7950025417t" region="bottom" xml:id="subtitle276"><span style="span">Dad spent his entire life</span><br/><span style="span">writing this book,</span></p>
+<p begin="7950859584t" end="7971296667t" region="bottom" xml:id="subtitle277"><span style="span">but he couldn't get any stores</span><br/><span style="span">to carry it,</span></p>
+<p begin="7972130834t" end="7988814167t" region="bottom" xml:id="subtitle278"><span style="span">or any newspapers to review it.</span></p>
+<p begin="7991316667t" end="8022597917t" region="bottom" xml:id="subtitle279"><span style="span">Finally, I guess this one newspaper</span><br/><span style="span">thought he was pretty hilarious,</span></p>
+<p begin="8023432084t" end="8049291250t" region="bottom" xml:id="subtitle280"><span style="span">because they ran a review</span><br/><span style="span">and tore him to shreds.</span></p>
+<p begin="8050125417t" end="8065974584t" region="bottom" xml:id="subtitle281"><span style="span">So, my father, ever the Proud Mary,</span></p>
+<p begin="8066808750t" end="8096004584t" region="bottom" xml:id="subtitle282"><span style="span">decided he would not stand</span><br/><span style="span">for this besmirchment of his honor.</span></p>
+<p begin="8096838750t" end="8129371250t" region="bottom" xml:id="subtitle283"><span style="span">He claimed the critic didn't understand</span><br/><span style="span">what it meant to be a man,</span></p>
+<p begin="8130205417t" end="8163989167t" region="bottom" xml:id="subtitle284"><span style="span">so he demanded satisfaction</span><br/><span style="span">in the form of pistols at dawn.</span></p>
+<p begin="8166491667t" end="8199024167t" region="bottom" xml:id="subtitle285"><span style="span">He wrote the paper, this letter,</span><br/><span style="span">saying anyone who didn't like his book,</span></p>
+<p begin="8199858334t" end="8221129584t" region="bottom" xml:id="subtitle286"><span style="span">he would challenge to a duel,</span><br/><span style="span">anyone in the world.</span></p>
+<p begin="8221963750t" end="8252410834t" region="bottom" xml:id="subtitle287"><span style="span">He'd even pay for airfare</span><br/><span style="span">to San Francisco and a night in a hotel.</span></p>
+<p begin="8253245000t" end="8279104167t" region="bottom" xml:id="subtitle288"><span style="span">Well, eventually this found its way</span><br/><span style="span">to some kook in Montana,</span></p>
+<p begin="8279938334t" end="8304546250t" region="bottom" xml:id="subtitle289"><span style="span">who was as batshit as he was</span><br/><span style="span">and took him up on the offer.</span></p>
+<p begin="8305380417t" end="8344586250t" region="bottom" xml:id="subtitle290"><span style="span">They met at Golden Gate Park and agreed:</span><br/><span style="span">ten paces, then shoot.</span></p>
+<p begin="8345420417t" end="8362937917t" region="bottom" xml:id="subtitle291"><span style="span">But in the middle of the ten paces,</span></p>
+<p begin="8363772084t" end="8400058334t" region="bottom" xml:id="subtitle292"><span style="span">Dad turned to ask the guy if he'd actually</span><br/><span style="span">read the book and what he thought,</span></p>
+<p begin="8400892500t" end="8417992917t" region="bottom" xml:id="subtitle293"><span style="span">but, not looking where he was going,</span></p>
+<p begin="8418827084t" end="8448440000t" region="bottom" xml:id="subtitle294"><span style="span">tripped over an exposed root</span><br/><span style="span">and bashed his head on a rock.</span></p>
+<p begin="8449274167t" end="8460535417t" region="bottom" xml:id="subtitle295"><span style="span">[murmur]</span></p>
+<p begin="8461369584t" end="8483057917t" region="bottom" xml:id="subtitle296"><span style="span">I wish I'd known to go</span><br/><span style="span">to Jack in the Box then.</span></p>
+<p begin="8483892084t" end="8507248750t" region="bottom" xml:id="subtitle297"><span style="span">I could have gotten a free churro.</span><br/><span style="span">It would've been nice</span></p>
+<p begin="8508082917t" end="8539364167t" region="bottom" xml:id="subtitle298"><span style="span">to have something to show for being</span><br/><span style="span">the son of Butterscotch Horseman.</span></p>
+<p begin="8545620417t" end="8567725834t" region="bottom" xml:id="subtitle299"><span style="span">My darling mother gave the eulogy.</span></p>
+<p begin="8568560000t" end="8610685417t" region="bottom" xml:id="subtitle300"><span style="span">My entire life I never heard her say</span><br/><span style="span">a kind word to or about my father,</span></p>
+<p begin="8611519584t" end="8625283334t" region="bottom" xml:id="subtitle301"><span style="span">but at his funeral she said,</span></p>
+<p begin="8626117500t" end="8658232917t" region="bottom" xml:id="subtitle302"><span style="span">"My husband is dead,</span><br/><span style="span">and everything is worse now."</span></p>
+<p begin="8659067084t" end="8667408750t" region="bottom" xml:id="subtitle303"><span style="span">[clearing throat]</span></p>
+<p begin="8669911250t" end="8706614584t" region="bottom" xml:id="subtitle304"><span style="span">"My husband is dead,</span><br/><span style="span">and everything is worse now."</span></p>
+<p begin="8712453750t" end="8741232500t" region="bottom" xml:id="subtitle305"><span style="span">I don't know why she said that.</span><br/><span style="span">Maybe she felt that's the kind of thing</span></p>
+<p begin="8742066667t" end="8756247500t" region="bottom" xml:id="subtitle306"><span style="span">you're supposed to say at a funeral.</span></p>
+<p begin="8757081667t" end="8785443334t" region="bottom" xml:id="subtitle307"><span style="span">Maybe she hoped one day</span><br/><span style="span">someone would say that about her.</span></p>
+<p begin="8786277500t" end="8811302500t" region="bottom" xml:id="subtitle308"><span style="span">"My mother is dead,</span><br/><span style="span">and everything is worse now."</span></p>
+<p begin="8815473334t" end="8840081250t" region="bottom" xml:id="subtitle309"><span style="span">Or maybe she knew</span><br/><span style="span">that he had frittered away</span></p>
+<p begin="8840915417t" end="8867191667t" region="bottom" xml:id="subtitle310"><span style="span">all her inheritance,</span><br/><span style="span">and replaced it with crippling debt,</span></p>
+<p begin="8868025834t" end="8889714167t" region="bottom" xml:id="subtitle311"><span style="span">which is a pretty shitty thing</span><br/><span style="span">to leave your widow with.</span></p>
+<p begin="8890548334t" end="8927251667t" region="bottom" xml:id="subtitle312"><span style="span">"Bad news, you lost a husband,</span><br/><span style="span">but don't worry, you also lost the house!"</span></p>
+<p begin="8929337084t" end="8953110834t" region="bottom" xml:id="subtitle313"><span style="span">Maybe Mom knew she'd have to sell</span><br/><span style="span">all her fancy jewelry</span></p>
+<p begin="8953945000t" end="8963120834t" region="bottom" xml:id="subtitle314"><span style="span">and move into a home.</span></p>
+<p begin="8963955000t" end="8983975000t" region="bottom" xml:id="subtitle315"><span style="span">Maybe that's what she meant by</span><br/><span style="span">"everything is worse."</span></p>
+<p begin="8987311667t" end="8999824167t" region="bottom" xml:id="subtitle316"><span style="span">Is that what you meant, Mom?</span></p>
+<p begin="9008165834t" end="9026934584t" region="bottom" xml:id="subtitle317"><span style="span">I gotta say,</span><br/><span style="span">I'm really carrying this double act.</span></p>
+<p begin="9027768750t" end="9058215834t" region="bottom" xml:id="subtitle318"><span style="span">At least with Penn and Teller,</span><br/><span style="span">the quiet one does card tricks.</span></p>
+<p begin="9059050000t" end="9079070000t" region="bottom" xml:id="subtitle319"><span style="span">Hey, piano man,</span><br/><span style="span">when I say something funny to my mom,</span></p>
+<p begin="9079904167t" end="9095336250t" region="bottom" xml:id="subtitle320"><span style="span">how about you give me a rimshot?</span></p>
+<p begin="9096170417t" end="9114105000t" region="bottom" xml:id="subtitle321"><span style="span">-[rimshot plays]</span><br/><span style="span">-Yeah, but not now.</span></p>
+<p begin="9114939167t" end="9139964167t" region="bottom" xml:id="subtitle322"><span style="span">When I say something funny. Like, okay.</span></p>
+<p begin="9140798334t" end="9177501667t" region="bottom" xml:id="subtitle323"><span style="span">What's the difference between my mother</span><br/><span style="span">and a disruptive expulsion of germs?</span></p>
+<p begin="9178335834t" end="9209617084t" region="bottom" xml:id="subtitle324"><span style="span">One's a coughin' fit</span><br/><span style="span">and the other fits a coffin!</span></p>
+<p begin="9215873334t" end="9240481250t" region="bottom" xml:id="subtitle325"><span style="span">-That's an example of a funny thing.</span><br/><span style="span">-[rimshot plays]</span></p>
+<p begin="9241315417t" end="9252576667t" region="bottom" xml:id="subtitle326"><span style="span">Thank you. Let's try again.</span></p>
+<p begin="9253410834t" end="9288445834t" region="bottom" xml:id="subtitle327"><span style="span">Hey, Mom. What's the difference between</span><br/><span style="span">my mother and a bunch of Easter eggs?</span></p>
+<p begin="9289280000t" end="9331822500t" region="bottom" xml:id="subtitle328"><span style="span">One gets carried in a basket,</span><br/><span style="span">the other gets buried in a casket!</span></p>
+<p begin="9332656667t" end="9350591250t" region="bottom" xml:id="subtitle329"><span style="span">-[rimshot plays]</span><br/><span style="span">-Ready for one more? Last one.</span></p>
+<p begin="9351425417t" end="9374365000t" region="bottom" xml:id="subtitle330"><span style="span">What's the difference</span><br/><span style="span">between a first-year lit major</span></p>
+<p begin="9375199167t" end="9393133750t" region="bottom" xml:id="subtitle331"><span style="span">and my mother, Beatrice Horseman?</span></p>
+<p begin="9393967917t" end="9446520417t" region="bottom" xml:id="subtitle332"><span style="span">One is decently read,</span><br/><span style="span">and the other's a huge bitch!</span></p>
+<p begin="9447354584t" end="9458198750t" region="bottom" xml:id="subtitle333"><span style="span">-[woman gasps]</span><br/><span style="span">-[murmers]</span></p>
+<p begin="9459032917t" end="9476967500t" region="bottom" xml:id="subtitle334"><span style="span">Might have gone a little too far</span><br/><span style="span">with that one.</span></p>
+<p begin="9477801667t" end="9512002500t" region="bottom" xml:id="subtitle335"><span style="span">That one might have been a little too</span><br/><span style="span">"my mom's a huge bitch" for the room.</span></p>
+<p begin="9512836667t" end="9537444584t" region="bottom" xml:id="subtitle336"><span style="span">I'm sorry, Mother.</span><br/><span style="span">You're not a huge bitch.</span></p>
+<p begin="9538278750t" end="9573313750t" region="bottom" xml:id="subtitle337"><span style="span">You were a huge bitch...</span><br/><span style="span">and now you're dead.</span></p>
+<p begin="9574147917t" end="9582489584t" region="bottom" xml:id="subtitle338"><span style="span">[woman sighs]</span></p>
+<p begin="9586243334t" end="9611268334t" region="bottom" xml:id="subtitle339"><span style="span">You know, the first time I ever performed</span><br/><span style="span">in front of an audience,</span></p>
+<p begin="9612102500t" end="9633373750t" region="bottom" xml:id="subtitle340"><span style="span">it actually was, uh, with my mom.</span></p>
+<p begin="9634207917t" end="9661735417t" region="bottom" xml:id="subtitle341"><span style="span">She used to put on these shows,</span><br/><span style="span">with her supper club in the living room,</span></p>
+<p begin="9662569584t" end="9677167500t" region="bottom" xml:id="subtitle342"><span style="span">and she used to make... [inhales]</span></p>
+<p begin="9678001667t" end="9695936250t" region="bottom" xml:id="subtitle343"><span style="span">She used to make me sing</span><br/><span style="span">"The Lollipop Song."</span></p>
+<p begin="9706780417t" end="9730137084t" region="bottom" xml:id="subtitle344"><span style="span">[organ playing tune]</span></p>
+<p begin="9730971250t" end="9748488750t" region="bottom" xml:id="subtitle345"><span style="span">Those parties, they were really something.</span></p>
+<p begin="9749322917t" end="9773930834t" region="bottom" xml:id="subtitle346"><span style="span">There were skits and magic acts,</span></p>
+<p begin="9774765000t" end="9800207084t" region="bottom" xml:id="subtitle347"><span style="span">and ethnically insensitive</span><br/><span style="span">vaudeville routines,</span></p>
+<p begin="9801041250t" end="9839830000t" region="bottom" xml:id="subtitle348"><span style="span">and the big finale</span><br/><span style="span">was always a dance my mother did.</span></p>
+<p begin="9840664167t" end="9873613750t" region="bottom" xml:id="subtitle349"><span style="span">She had this beautiful dress that she only</span><br/><span style="span">brought out for these parties,</span></p>
+<p begin="9874447917t" end="9895719167t" region="bottom" xml:id="subtitle350"><span style="span">and she did this incredible number.</span></p>
+<p begin="9896553334t" end="9929502917t" region="bottom" xml:id="subtitle351"><span style="span">It was so beautiful and sad.</span></p>
+<p begin="9935342084t" end="9962869584t" region="bottom" xml:id="subtitle352"><span style="span">Dad hated the parties.</span><br/><span style="span">He'd lock himself in the study,</span></p>
+<p begin="9963703750t" end="9984975000t" region="bottom" xml:id="subtitle353"><span style="span">and bang on the walls</span><br/><span style="span">for us to keep it down,</span></p>
+<p begin="9985809167t" end="10019175834t" region="bottom" xml:id="subtitle354"><span style="span">but he always came out to see Mom dance.</span></p>
+<p begin="10022512500t" end="10044617917t" region="bottom" xml:id="subtitle355"><span style="span">He'd linger in the doorway,</span><br/><span style="span">scotch in hand,</span></p>
+<p begin="10045452084t" end="10080070000t" region="bottom" xml:id="subtitle356"><span style="span">and watch in awe, as this cynical,</span></p>
+<p begin="10080904167t" end="10123446667t" region="bottom" xml:id="subtitle357"><span style="span">despicable woman he married...</span><br/><span style="span">took flight.</span></p>
+<p begin="10127617500t" end="10167657500t" region="bottom" xml:id="subtitle358"><span style="span">And as a child who was completely</span><br/><span style="span">terrified of both my parents,</span></p>
+<p begin="10168491667t" end="10203526667t" region="bottom" xml:id="subtitle359"><span style="span">I was always aware</span><br/><span style="span">that this moment of grace,</span></p>
+<p begin="10204360834t" end="10214370834t" region="bottom" xml:id="subtitle360"><span style="span">it meant something.</span></p>
+<p begin="10222295417t" end="10238561667t" region="bottom" xml:id="subtitle361"><span style="span">We understood each other, in a way.</span></p>
+<p begin="10239395834t" end="10275682084t" region="bottom" xml:id="subtitle362"><span style="span">Me and my mom and my dad,</span><br/><span style="span">as screwed up as we all were,</span></p>
+<p begin="10276516250t" end="10291948334t" region="bottom" xml:id="subtitle363"><span style="span">we did understand each other.</span></p>
+<p begin="10292782500t" end="10325315000t" region="bottom" xml:id="subtitle364"><span style="span">My mother, she knew</span><br/><span style="span">what it's like to feel your entire life</span></p>
+<p begin="10326149167t" end="10354093750t" region="bottom" xml:id="subtitle365"><span style="span">like you're drowning</span><br/><span style="span">with the exception of these moments,</span></p>
+<p begin="10361601250t" end="10383706667t" region="bottom" xml:id="subtitle366"><span style="span">these very rare, brief instances,</span></p>
+<p begin="10384540834t" end="10422495417t" region="bottom" xml:id="subtitle367"><span style="span">in which you suddenly remember...</span><br/><span style="span">you can swim.</span></p>
+<p begin="10424997917t" end="10445017917t" region="bottom" xml:id="subtitle368"><span style="span">[flashback]</span></p>
+<p begin="10445852084t" end="10471711250t" region="bottom" xml:id="subtitle369"><span style="span">[partygoers laughing]</span></p>
+<p begin="10472545417t" end="10495067917t" region="bottom" xml:id="subtitle370"><span style="span">[classical music playing]</span></p>
+<p begin="10584740834t" end="10621861250t" region="bottom" xml:id="subtitle371"><span style="span">But, then again, mostly not.</span><br/><span style="span">Mostly you're drowning.</span></p>
+<p begin="10622695417t" end="10635207917t" region="bottom" xml:id="subtitle372"><span style="span">She understood that too.</span></p>
+<p begin="10636042084t" end="10662735417t" region="bottom" xml:id="subtitle373"><span style="span">And she recognized that I understood it.</span><br/><span style="span">And Dad.</span></p>
+<p begin="10663986667t" end="10692765417t" region="bottom" xml:id="subtitle374"><span style="span">All three of us were drowning,</span><br/><span style="span">and we didn't know how to save each other,</span></p>
+<p begin="10693599584t" end="10726132084t" region="bottom" xml:id="subtitle375"><span style="span">but there was an understanding</span><br/><span style="span">that we were all drowning together.</span></p>
+<p begin="10731554167t" end="10748654584t" region="bottom" xml:id="subtitle376"><span style="span">I would like to think</span><br/><span style="span">that's what she meant</span></p>
+<p begin="10749488750t" end="10775347917t" region="bottom" xml:id="subtitle377"><span style="span">when we were in the hospital</span><br/><span style="span">and she said, "I see you."</span></p>
+<p begin="10779518750t" end="10800790000t" region="bottom" xml:id="subtitle378"><span style="span">The weird thing</span><br/><span style="span">about both your parents being dead</span></p>
+<p begin="10801624167t" end="10817890417t" region="bottom" xml:id="subtitle379"><span style="span">is it means that you're next.</span></p>
+<p begin="10820392917t" end="10852925417t" region="bottom" xml:id="subtitle380"><span style="span">I mean, you know, obviously it's not</span><br/><span style="span">like there's a wait list for dying.</span></p>
+<p begin="10853759584t" end="10883789584t" region="bottom" xml:id="subtitle381"><span style="span">Any one of us could get run over</span><br/><span style="span">by a Snapchatting teen at any moment.</span></p>
+<p begin="10884623750t" end="10916739167t" region="bottom" xml:id="subtitle382"><span style="span">And you would think that knowing that</span><br/><span style="span">would make us more adventurous,</span></p>
+<p begin="10917573334t" end="10931337084t" region="bottom" xml:id="subtitle383"><span style="span">and kind, and forgiving.</span></p>
+<p begin="10932171250t" end="10965537917t" region="bottom" xml:id="subtitle384"><span style="span">But it makes us small,</span><br/><span style="span">and stupid, and petty.</span></p>
+<p begin="10981804167t" end="11003075417t" region="bottom" xml:id="subtitle385"><span style="span">I actually had a near-death experience,</span><br/><span style="span">recently.</span></p>
+<p begin="11003909584t" end="11029351667t" region="bottom" xml:id="subtitle386"><span style="span">A stunt went bad</span><br/><span style="span">and I fell off a building.</span></p>
+<p begin="11030185834t" end="11053959584t" region="bottom" xml:id="subtitle387"><span style="span">I'm an actor. I do my own stunts.</span></p>
+<p begin="11055210834t" end="11091497084t" region="bottom" xml:id="subtitle388"><span style="span">I'm on this new show </span><span style="italic">Philbert.</span><br/><span style="span">I'm Philbert. Star of the show.</span></p>
+<p begin="11092331250t" end="11114853750t" region="bottom" xml:id="subtitle389"><span style="span">It hasn't come out yet,</span><br/><span style="span">but it's already getting Emmy buzz.</span></p>
+<p begin="11115687917t" end="11130285834t" region="bottom" xml:id="subtitle390"><span style="span">Oh, speaking of buzz...</span><br/><span style="span">[inhales]</span></p>
+<p begin="11131537084t" end="11146969167t" region="bottom" xml:id="subtitle391"><span style="span">I've to take</span><br/><span style="span">two of these every morning,</span></p>
+<p begin="11147803334t" end="11177416250t" region="bottom" xml:id="subtitle392"><span style="span">but my days are so screwed up</span><br/><span style="span">'cause of the shooting schedule,</span></p>
+<p begin="11180335834t" end="11200355834t" region="bottom" xml:id="subtitle393"><span style="span">I don't even know</span><br/><span style="span">what morning means anymore.</span></p>
+<p begin="11202858334t" end="11216205000t" region="bottom" xml:id="subtitle394"><span style="span">There's a joke in there somewhere,</span></p>
+<p begin="11217039167t" end="11237893334t" region="bottom" xml:id="subtitle395"><span style="span">about a guy</span><br/><span style="span">who's been to so many funerals,</span></p>
+<p begin="11238727500t" end="11264586667t" region="bottom" xml:id="subtitle396"><span style="span">he doesn't even know</span><br/><span style="span">what mourning means anymore.</span></p>
+<p begin="11265420834t" end="11294199584t" region="bottom" xml:id="subtitle397"><span style="span">Let you guys figure that one out</span><br/><span style="span">for yourselves. [gulps]</span></p>
+<p begin="11299204584t" end="11312968334t" region="bottom" xml:id="subtitle398"><span style="span">Anyway, you know what I thought...</span></p>
+<p begin="11313802500t" end="11344666667t" region="bottom" xml:id="subtitle399"><span style="span">when I was falling off the building</span><br/><span style="span">and I went into panic mode?</span></p>
+<p begin="11346335000t" end="11380535834t" region="bottom" xml:id="subtitle400"><span style="span">The last thing that my stupid brain</span><br/><span style="span">could come up with before I died?</span></p>
+<p begin="11394716667t" end="11405977917t" region="bottom" xml:id="subtitle401"><span style="span">"Won't they be sorry."</span></p>
+<p begin="11420158750t" end="11435590834t" region="bottom" xml:id="subtitle402"><span style="span">-Cool thought, brain.</span><br/><span style="span">-[rimshot plays]</span></p>
+<p begin="11436425000t" end="11444766667t" region="bottom" xml:id="subtitle403"><span style="span">No, that wasn't...</span></p>
+<p begin="11445600834t" end="11467706250t" region="bottom" xml:id="subtitle404"><span style="span">Would you just... Dial it back, all right?</span></p>
+<p begin="11468540417t" end="11494816667t" region="bottom" xml:id="subtitle405"><span style="span">I don't even know what "they"</span><br/><span style="span">I wanted to be sorry.</span></p>
+<p begin="11495650834t" end="11527349167t" region="bottom" xml:id="subtitle406"><span style="span">My mom, even before she died,</span><br/><span style="span">could barely remember who I was.</span></p>
+<p begin="11528183334t" end="11545700834t" region="bottom" xml:id="subtitle407"><span style="span">And of course, my dad's dead.</span></p>
+<p begin="11547786250t" end="11574062500t" region="bottom" xml:id="subtitle408"><span style="span">The last conversation I ever had with him</span><br/><span style="span">was about his novel.</span></p>
+<p begin="11574896667t" end="11597836250t" region="bottom" xml:id="subtitle409"><span style="span">He was so certain</span><br/><span style="span">this book was his legacy.</span></p>
+<p begin="11598670417t" end="11614519584t" region="bottom" xml:id="subtitle410"><span style="span">Maybe he thought it would vindicate him</span></p>
+<p begin="11615353750t" end="11651222917t" region="bottom" xml:id="subtitle411"><span style="span">for all the shitty things he ever did</span><br/><span style="span">in his stupid worthless life.</span></p>
+<p begin="11652057084t" end="11678333334t" region="bottom" xml:id="subtitle412"><span style="span">Maybe it did. I don't know.</span><br/><span style="span">I never read it.</span></p>
+<p begin="11679167500t" end="11696267917t" region="bottom" xml:id="subtitle413"><span style="span">Because why would I give him that?</span></p>
+<p begin="11707946250t" end="11730885834t" region="bottom" xml:id="subtitle414"><span style="span">I used to be on this TV show</span><br/><span style="span">called </span><span style="italic">Horsin' Around.</span></p>
+<p begin="11731720000t" end="11744649584t" region="bottom" xml:id="subtitle415"><span style="span">Seriously, hold your applause.</span></p>
+<p begin="11753408334t" end="11769674584t" region="bottom" xml:id="subtitle416"><span style="span">-[man coughs]</span><br/><span style="span">-Well held.</span></p>
+<p begin="11772594167t" end="11803875417t" region="bottom" xml:id="subtitle417"><span style="span">It was written by my friend Herb Kazzaz,</span><br/><span style="span">who's also dead now,</span></p>
+<p begin="11804709584t" end="11824729584t" region="bottom" xml:id="subtitle418"><span style="span">and it starred this little girl</span><br/><span style="span">named Sarah Lynn.</span></p>
+<p begin="11834739584t" end="11866020834t" region="bottom" xml:id="subtitle419"><span style="span">And it was about these orphans.</span><br/><span style="span">And early on, the network had a note,</span></p>
+<p begin="11866855000t" end="11882704167t" region="bottom" xml:id="subtitle420"><span style="span">"Maybe don't mention</span><br/><span style="span">they're orphans,</span></p>
+<p begin="11883538334t" end="11920241667t" region="bottom" xml:id="subtitle421"><span style="span">because audiences tend</span><br/><span style="span">to find orphans sad and not relatable."</span></p>
+<p begin="11921492917t" end="11936090834t" region="bottom" xml:id="subtitle422"><span style="span">I never thought the orphans were sad.</span></p>
+<p begin="11936925000t" end="11954442500t" region="bottom" xml:id="subtitle423"><span style="span">I always thought they were lucky</span></p>
+<p begin="11955276667t" end="11989060417t" region="bottom" xml:id="subtitle424"><span style="span">because they could imagine their parents</span><br/><span style="span">to be anything they wanted.</span></p>
+<p begin="11991980000t" end="12009497500t" region="bottom" xml:id="subtitle425"><span style="span">They had something to long for.</span></p>
+<p begin="12012417084t" end="12047452084t" region="bottom" xml:id="subtitle426"><span style="span">Anyway, we did this one season finale,</span><br/><span style="span">where Olivia's birth mother comes to town.</span></p>
+<p begin="12048703334t" end="12072477084t" region="bottom" xml:id="subtitle427"><span style="span">And she was a junkie,</span><br/><span style="span">but she's gotten herself cleaned up,</span></p>
+<p begin="12073311250t" end="12089577500t" region="bottom" xml:id="subtitle428"><span style="span">and she wants to be</span><br/><span style="span">in Olivia's life again.</span></p>
+<p begin="12090411667t" end="12121275834t" region="bottom" xml:id="subtitle429"><span style="span">And of course, she's like a perfect</span><br/><span style="span">grown-up version of Olivia,</span></p>
+<p begin="12122110000t" end="12137959167t" region="bottom" xml:id="subtitle430"><span style="span">and they go to the mall together</span></p>
+<p begin="12138793334t" end="12160898750t" region="bottom" xml:id="subtitle431"><span style="span">and get her ears pierced,</span><br/><span style="span">like she's always wanted and--</span></p>
+<p begin="12161732917t" end="12190094584t" region="bottom" xml:id="subtitle432"><span style="span">Sorry, spoiler alert for the season six</span><br/><span style="span">finale of </span><span style="italic">Horsin' Around,</span></p>
+<p begin="12190928750t" end="12213451250t" region="bottom" xml:id="subtitle433"><span style="span">if you're still working</span><br/><span style="span">your way through it.</span></p>
+<p begin="12221375834t" end="12245149584t" region="bottom" xml:id="subtitle434"><span style="span">Anyway, the horse tries</span><br/><span style="span">to warn her, "Be careful,</span></p>
+<p begin="12245983750t" end="12263501250t" region="bottom" xml:id="subtitle435"><span style="span">moms have a way of letting you down."</span></p>
+<p begin="12264335417t" end="12294782500t" region="bottom" xml:id="subtitle436"><span style="span">But Olivia just thinks</span><br/><span style="span">the horse is jealous,</span></p>
+<p begin="12295616667t" end="12321475834t" region="bottom" xml:id="subtitle437"><span style="span">and when the mom says</span><br/><span style="span">she's moving to California,</span></p>
+<p begin="12322310000t" end="12340661667t" region="bottom" xml:id="subtitle438"><span style="span">Olivia decides to go with her.</span></p>
+<p begin="12341495834t" end="12366103750t" region="bottom" xml:id="subtitle439"><span style="span">And the network really juiced</span><br/><span style="span">the cliffhanger:</span></p>
+<p begin="12366937917t" end="12390294584t" region="bottom" xml:id="subtitle440"><span style="span">''Is Olivia gone for good?''</span></p>
+<p begin="12391128750t" end="12418656250t" region="bottom" xml:id="subtitle441"><span style="span">But of course, because it's a TV show,</span><br/><span style="span">she was not gone for good.</span></p>
+<p begin="12419490417t" end="12437842084t" region="bottom" xml:id="subtitle442"><span style="span">Of course, because it's a TV show,</span></p>
+<p begin="12438676250t" end="12468706250t" region="bottom" xml:id="subtitle443"><span style="span">Olivia's mother had a relapse</span><br/><span style="span">and had to go back to rehab,</span></p>
+<p begin="12469540417t" end="12488726250t" region="bottom" xml:id="subtitle444"><span style="span">so Olivia had to hitchhike</span><br/><span style="span">all the way home,</span></p>
+<p begin="12489560417t" end="12520841667t" region="bottom" xml:id="subtitle445"><span style="span">getting rides from Mr. T,</span><br/><span style="span">Alf, and the cast of </span><span style="italic">Stomp.</span></p>
+<p begin="12521675834t" end="12535022500t" region="bottom" xml:id="subtitle446"><span style="span">Of course that's what happened.</span></p>
+<p begin="12535856667t" end="12572560000t" region="bottom" xml:id="subtitle447"><span style="span">Because, what are you gonna do,</span><br/><span style="span">just not have Olivia on the show?</span></p>
+<p begin="12573394167t" end="12597167917t" region="bottom" xml:id="subtitle448"><span style="span">You can't have happy endings in sitcoms,</span><br/><span style="span">not really,</span></p>
+<p begin="12598002084t" end="12627615000t" region="bottom" xml:id="subtitle449"><span style="span">because, if everyone's happy,</span><br/><span style="span">the show would be over,</span></p>
+<p begin="12628449167t" end="12661815834t" region="bottom" xml:id="subtitle450"><span style="span">and above all else,</span><br/><span style="span">the show... has to keep going.</span></p>
+<p begin="12662650000t" end="12679333334t" region="bottom" xml:id="subtitle451"><span style="span">There's always more show.</span></p>
+<p begin="12680167500t" end="12717287917t" region="bottom" xml:id="subtitle452"><span style="span">And you can call </span><span style="italic">Horsin' Around </span><span style="span">dumb,</span><br/><span style="span">or bad, or unrealistic,</span></p>
+<p begin="12718122084t" end="12741895834t" region="bottom" xml:id="subtitle453"><span style="span">but there is nothing more realistic</span><br/><span style="span">than that.</span></p>
+<p begin="12742730000t" end="12773594167t" region="bottom" xml:id="subtitle454"><span style="span">You never get a happy ending,</span><br/><span style="span">'cause there's always more show.</span></p>
+<p begin="12791528750t" end="12804041250t" region="bottom" xml:id="subtitle455"><span style="span">I guess until there isn't.</span></p>
+<p begin="12819056250t" end="12833654167t" region="bottom" xml:id="subtitle456"><span style="span">[chuckles]</span></p>
+<p begin="12834488334t" end="12872442917t" region="bottom" xml:id="subtitle457"><span style="span">My mom would hate it if she knew</span><br/><span style="span">that I spent so much time at her funeral</span></p>
+<p begin="12873277084t" end="12889960417t" region="bottom" xml:id="subtitle458"><span style="span">talking about my old TV show.</span></p>
+<p begin="12892045834t" end="12913317084t" region="bottom" xml:id="subtitle459"><span style="span">Or maybe she'd think it was funny</span><br/><span style="span">that her idiot son</span></p>
+<p begin="12914151250t" end="12930834584t" region="bottom" xml:id="subtitle460"><span style="span">couldn't even do this right. Who knows?</span></p>
+<p begin="12935839584t" end="12960030417t" region="bottom" xml:id="subtitle461"><span style="span">She left no instructions</span><br/><span style="span">for what she wanted me to say.</span></p>
+<p begin="12960864584t" end="12980467500t" region="bottom" xml:id="subtitle462"><span style="span">All I know is she wanted an open casket,</span></p>
+<p begin="12981301667t" end="13007577917t" region="bottom" xml:id="subtitle463"><span style="span">and her idiot son</span><br/><span style="span">couldn't even do that right.</span></p>
+<p begin="13018422084t" end="13032185834t" region="bottom" xml:id="subtitle464"><span style="span">I'll stand up here and pretend</span></p>
+<p begin="13033020000t" end="13048452084t" region="bottom" xml:id="subtitle465"><span style="span">I understood</span><br/><span style="span">how to please that woman,</span></p>
+<p begin="13049286250t" end="13085572500t" region="bottom" xml:id="subtitle466"><span style="span">even though so much of my life has been</span><br/><span style="span">wasted in vain attempts to figure it out.</span></p>
+<p begin="13086406667t" end="13116019584t" region="bottom" xml:id="subtitle467"><span style="span">But I keep going back to that moment</span><br/><span style="span">in the ICU when she looked at me, and...</span></p>
+<p begin="13123110000t" end="13131451667t" region="bottom" xml:id="subtitle468"><span style="span">"I-C-U."</span></p>
+<p begin="13146049584t" end="13178582084t" region="bottom" xml:id="subtitle469"><span style="span">"I... see... you."</span></p>
+<p begin="13190677500t" end="13223210000t" region="bottom" xml:id="subtitle470"><span style="span">Jesus Christ,</span><br/><span style="span">we were in the intensive care unit.</span></p>
+<p begin="13231551667t" end="13244481250t" region="bottom" xml:id="subtitle471"><span style="span">She was just reading a sign.</span></p>
+<p begin="13270757500t" end="13297033750t" region="bottom" xml:id="subtitle472"><span style="span">My mom died and all I got</span><br/><span style="span">was this free churro.</span></p>
+<p begin="13321224584t" end="13342078750t" region="bottom" xml:id="subtitle473"><span style="span">You know the shittiest thing</span><br/><span style="span">about all of this?</span></p>
+<p begin="13342912917t" end="13369189167t" region="bottom" xml:id="subtitle474"><span style="span">Is when that stranger behind the counter</span><br/><span style="span">gave me that free churro,</span></p>
+<p begin="13370023334t" end="13407560834t" region="bottom" xml:id="subtitle475"><span style="span">that small act of kindness</span><br/><span style="span">showed more compassion</span></p>
+<p begin="13408395000t" end="13434254167t" region="bottom" xml:id="subtitle476"><span style="span">than my mother gave me</span><br/><span style="span">her entire goddamn life.</span></p>
+<p begin="13435088334t" end="13460113334t" region="bottom" xml:id="subtitle477"><span style="span">Like, how hard is it to do something nice</span><br/><span style="span">for a person?</span></p>
+<p begin="13463032917t" end="13502655834t" region="bottom" xml:id="subtitle478"><span style="span">This woman at the Jack in the Box</span><br/><span style="span">didn't even know me.</span></p>
+<p begin="13503490000t" end="13511831667t" region="bottom" xml:id="subtitle479"><span style="span">I'm your son.</span></p>
+<p begin="13519756250t" end="13533520000t" region="bottom" xml:id="subtitle480"><span style="span">All I had was you!</span></p>
+<p begin="13550203334t" end="13561047500t" region="bottom" xml:id="subtitle481"><span style="span">[inhales]</span></p>
+<p begin="13570640417t" end="13587740834t" region="bottom" xml:id="subtitle482"><span style="span">I have this friend.</span></p>
+<p begin="13588992084t" end="13604424167t" region="bottom" xml:id="subtitle483"><span style="span">And right around when I first met her,</span></p>
+<p begin="13605258334t" end="13645298334t" region="bottom" xml:id="subtitle484"><span style="span">her dad died, and I actually went with her</span><br/><span style="span">to the funeral.</span></p>
+<p begin="13646132500t" end="13673242917t" region="bottom" xml:id="subtitle485"><span style="span">And months later, she told me</span><br/><span style="span">that she didn't understand</span></p>
+<p begin="13674077084t" end="13710780417t" region="bottom" xml:id="subtitle486"><span style="span">why she was still upset,</span><br/><span style="span">because she never even liked her father.</span></p>
+<p begin="13711614584t" end="13742478750t" region="bottom" xml:id="subtitle487"><span style="span">It made sense to me, because I went</span><br/><span style="span">through the same thing when my dad died.</span></p>
+<p begin="13743312917t" end="13774177084t" region="bottom" xml:id="subtitle488"><span style="span">And I'm going through the same thing now.</span><br/><span style="span">You know what it's like?</span></p>
+<p begin="13775011250t" end="13798785000t" region="bottom" xml:id="subtitle489"><span style="span">It's like that show </span><span style="italic">Becker,</span><br/><span style="span">you know, with Ted Danson?</span></p>
+<p begin="13799619167t" end="13813382917t" region="bottom" xml:id="subtitle490"><span style="span">I watched the entire run of it,</span></p>
+<p begin="13814217084t" end="13835071250t" region="bottom" xml:id="subtitle491"><span style="span">hoping that it would get better,</span><br/><span style="span">and it never did.</span></p>
+<p begin="13840076250t" end="13868020834t" region="bottom" xml:id="subtitle492"><span style="span">It had all the right pieces, but it just--</span><br/><span style="span">It couldn't put them together.</span></p>
+<p begin="13868855000t" end="13878865000t" region="bottom" xml:id="subtitle493"><span style="span">And when it got canceled,</span></p>
+<p begin="13879699167t" end="13904307084t" region="bottom" xml:id="subtitle494"><span style="span">I was really bummed out,</span><br/><span style="span">not because I liked the show,</span></p>
+<p begin="13905141250t" end="13930166250t" region="bottom" xml:id="subtitle495"><span style="span">but because I knew it could be</span><br/><span style="span">so much better,</span></p>
+<p begin="13931000417t" end="13970206250t" region="bottom" xml:id="subtitle496"><span style="span">and now it never would be.</span><br/><span style="span">And that's what losing a parent is like.</span></p>
+<p begin="13976879584t" end="13987306667t" region="bottom" xml:id="subtitle497"><span style="span">It's like </span><span style="italic">Becker.</span></p>
+<p begin="13996482500t" end="14034437084t" region="bottom" xml:id="subtitle498"><span style="span">Suddenly, you realize you'll never have</span><br/><span style="span">the good relationship you wanted,</span></p>
+<p begin="14035271250t" end="14065301250t" region="bottom" xml:id="subtitle499"><span style="span">and as long as they were alive,</span><br/><span style="span">even though you'd never admit it,</span></p>
+<p begin="14066135417t" end="14099085000t" region="bottom" xml:id="subtitle500"><span style="span">part of you,</span><br/><span style="span">the stupidest goddamn part of you,</span></p>
+<p begin="14099919167t" end="14129949167t" region="bottom" xml:id="subtitle501"><span style="span">was still holding on to that chance.</span></p>
+<p begin="14130783334t" end="14159979167t" region="bottom" xml:id="subtitle502"><span style="span">And you didn't even realize it</span><br/><span style="span">until that chance went away.</span></p>
+<p begin="14164984167t" end="14205441250t" region="bottom" xml:id="subtitle503"><span style="span">"My mother is dead,</span><br/><span style="span">and everything is worse now."</span></p>
+<p begin="14211697500t" end="14239642084t" region="bottom" xml:id="subtitle504"><span style="span">Because now I know</span><br/><span style="span">I will never have a mother</span></p>
+<p begin="14240476250t" end="14262998750t" region="bottom" xml:id="subtitle505"><span style="span">who looks at me from across a room</span><br/><span style="span">and says,</span></p>
+<p begin="14263832917t" end="14296365417t" region="bottom" xml:id="subtitle506"><span style="span">"BoJack Horseman, I see you."</span></p>
+<p begin="14307626667t" end="14321390417t" region="bottom" xml:id="subtitle507"><span style="span">But I guess it's good to know.</span></p>
+<p begin="14328897917t" end="14358927917t" region="bottom" xml:id="subtitle508"><span style="span">It's good to know</span><br/><span style="span">that there is nobody looking out for me,</span></p>
+<p begin="14359762084t" end="14383535834t" region="bottom" xml:id="subtitle509"><span style="span">that there never was,</span><br/><span style="span">and there never will be.</span></p>
+<p begin="14384370000t" end="14411480417t" region="bottom" xml:id="subtitle510"><span style="span">No, it's good to know that I am</span><br/><span style="span">the only one that I can depend on.</span></p>
+<p begin="14419822084t" end="14451103334t" region="bottom" xml:id="subtitle511"><span style="span">And I know that now and it's good.</span><br/><span style="span">It's good that I know that.</span></p>
+<p begin="14451937500t" end="14475711250t" region="bottom" xml:id="subtitle512"><span style="span">So... it's good my mother is dead.</span></p>
+<p begin="14480299167t" end="14497816667t" region="bottom" xml:id="subtitle513"><span style="span">[gulps, sighs]</span></p>
+<p begin="14504490000t" end="14525761250t" region="bottom" xml:id="subtitle514"><span style="span">Well. No point beating a dead horse.</span></p>
+<p begin="14526595417t" end="14551203334t" region="bottom" xml:id="subtitle515"><span style="span">Beatrice Horseman was born in 1938,</span></p>
+<p begin="14552037500t" end="14601253334t" region="bottom" xml:id="subtitle516"><span style="span">and she died in 2018,</span><br/><span style="span">and I have no idea... what she wanted.</span></p>
+<p begin="14630032084t" end="14650886250t" region="bottom" xml:id="subtitle517"><span style="span">Unless she just wanted what we all want...</span></p>
+<p begin="14660896250t" end="14670072084t" region="bottom" xml:id="subtitle518"><span style="span">to be seen.</span></p>
+<p begin="14827312500t" end="14836488334t" region="bottom" xml:id="subtitle519"><span style="span">[slurps]</span></p>
+<p begin="14837322500t" end="14849835000t" region="bottom" xml:id="subtitle520"><span style="span">[blows nose]</span></p>
+<p begin="14858176667t" end="14874442917t" region="bottom" xml:id="subtitle521"><span style="span">Is this Funeral Parlor B?</span></p>
+<p begin="14875694167t" end="14895714167t" region="bottom" xml:id="subtitle522"><span style="span">[funeral music]</span></p>
+</div>
+</body>
+</tt>
