@@ -2,12 +2,14 @@
 Sentiment Analysis on Bojack Horseman
 
 Goal
+
 This project aims to complete a sentiment analysis of the Netflix show, Bojack Horseman. 
 The show revolves around the use of dark humor and tackles difficult subjects such as depression and addiction. 
 As a result, the language used in the show should reflect the sentiments of the characters. 
 The code I created attempts to use both nltk, TextBlob and other data tools to do a sentiment analysis of the show's script. 
 
-Instructions 
+Instructions
+
 This code requires the installation of several modules, including: nltk, re, string, numpy, pandas, matplotlib, wordcloud, textblob, itertools, and seaborn. 
 All these files can be installed through the command prompt using "pip install [module name]." 
 If there are any problems with the installation, please refer to the installation guides for the individual modules. 
@@ -39,4 +41,5 @@ The next part of the module revolves around the creation of data and analysis us
 Many of the functions here serve to analyze the data and present different plots depending on the needs of the data. 
 Conclusions, descriptions, and functionality are included within the documentation of the code. 
 
-
+Much of the code base was obtained from Sarah McTavish at cloud.archivesunleashed.org/derivatives/text-sentiment, as well as
+Dilan Jayasekara at https://towardsdatascience.com/statistical-sentiment-analysis-for-survey-data-using-python-9c824ef0c9b0
