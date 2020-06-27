@@ -7,6 +7,7 @@ This project aims to complete a sentiment analysis of the Netflix show, Bojack H
 The show revolves around the use of dark humor and tackles difficult subjects such as depression and addiction. 
 As a result, the language used in the show should reflect the sentiments of the characters. 
 The code I created attempts to use both nltk, TextBlob and other data tools to do a sentiment analysis of the show's script. 
+In this project, I found the sentiment anlysis under TextBlob was slightly over 0.5, indicating the show is positive despite its dark twists. The charts included in the project emphasize the limitations that a computer based sentiment anlaysis has. However, looking at the top ten common words, its likely that increasing the strictness of the stop words would give us a better list. In addition, surveying the sentiment analysis under nltk shows a variety of different scores. However the most common score is still neutral. This is likely due to the simplistic nature of television scripts (i.e. use of "uhs", "ums", and contractions).
 
 Instructions
 
